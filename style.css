@@ -71,3 +71,23 @@ div[role="progressbar"] > div {
 div {
     margin-bottom: 10px;
 }
+
+/* Adjust Sidebar Width */
+[data-testid="stSidebar"] {
+    width: 250px !important; /* Set your desired width here */
+    min-width: 250px !important; /* Prevents it from collapsing too much */
+    max-width: 250px !important; /* Prevents it from expanding beyond the set width */
+}
+
+/* Adjust selectbox width and alignment */
+div[data-baseweb="select"] > div {
+    width: 200px !important;  /* Adjust width as needed */
+    display: flex;
+    align-items: center;
+}
+
+div[data-baseweb="select"] > div > div {
+    white-space: normal !important;  /* Allow text to wrap */
+    overflow: visible !important;   /* Ensure text is fully visible */
+    text-overflow: clip !important; /* Prevent text from being cut off */
+}
