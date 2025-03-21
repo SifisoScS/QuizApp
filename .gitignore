@@ -1,0 +1,26 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+
+# Streamlit Cache
+.streamlit/
+
+# Environment files
+.DS_Store
+*.log
+*.sqlite3
+*.db
+
+# System Files
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Dependency Management
+requirements.txt.lock
