@@ -301,3 +301,100 @@ What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg"
 What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
 What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
 What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
+Who was the first democratically elected President of South Africa?,"Nelson Mandela,Thabo Mbeki,Jacob Zuma,Cyril Ramaphosa",Nelson Mandela,South African History,Easy
+In what year did South Africa hold its first democratic elections?,"1990,1994,1989,1996",1994,South African History,Easy
+What was the name of the system of institutionalized racial segregation in South Africa?,"Apartheid,Colonialism,Reconstruction,Segregation",Apartheid,South African History,Medium
+Who was the anti-apartheid activist famously imprisoned on Robben Island for 27 years?,"Nelson Mandela,Desmond Tutu,Steve Biko,Walter Sisulu",Nelson Mandela,South African History,Easy
+Which political party led the struggle against apartheid and is now South Africa's ruling party?,"ANC,DA,EFF,IFP",ANC,South African History,Easy
+What is the name of the Nobel Peace Prize laureate known for his role in the Truth and Reconciliation Commission?,"Desmond Tutu,Nelson Mandela,FW de Klerk,Albert Luthuli",Desmond Tutu,South African History,Medium
+When did South Africa officially become a republic, leaving the British Commonwealth?,"1961,1948,1976,1955",1961,South African History,Medium
+Who was the last President of South Africa under the apartheid system?,"FW de Klerk,PW Botha,Nelson Mandela,John Vorster",FW de Klerk,South African History,Medium
+What was the Sharpeville Massacre of 1960 a protest against?,"Pass Laws,Apartheid Education,Forced Removals,Land Dispossession",Pass Laws,South African History,Medium
+Which South African city is known as the 'Mother City'?,"Cape Town,Durban,Johannesburg,Pretoria",Cape Town,South African History,Easy
+What is the primary goal of supervised learning?,"Predict outcomes,Cluster data,Reduce dimensions,Generate images",Predict outcomes,Machine Learning,Easy
+Which algorithm is commonly used for classification problems?,"Logistic Regression,K-Means,PCA,KNN",Logistic Regression,Machine Learning,Easy
+What is overfitting in machine learning?,"Model learns noise,Model generalizes well,Model converges early,Model has fewer parameters",Model learns noise,Machine Learning,Medium
+Which metric is most appropriate for evaluating classification models?,"Accuracy,R2 Score,MSE,MAE",Accuracy,Machine Learning,Easy
+What is the primary difference between supervised and unsupervised learning?,"Labeled vs. Unlabeled Data,Speed of Training,Model Complexity,Data Volume",Labeled vs. Unlabeled Data,Machine Learning,Easy
+Which algorithm is used for unsupervised clustering?,"K-Means,Linear Regression,Random Forest,SVM",K-Means,Machine Learning,Easy
+What does CNN stand for in deep learning?,"Convolutional Neural Network,Conditional Neural Network,Converging Neural Network,Contextual Neural Network",Convolutional Neural Network,AI,Easy
+Which activation function is commonly used in hidden layers of neural networks?,"ReLU,Sigmoid,Linear,Softmax",ReLU,AI,Easy
+What is the role of an AI agent?,"Perceive environment and take actions,Generate static outputs,Monitor system logs,Execute fixed rules",Perceive environment and take actions,AI Agents,Easy
+Which concept describes an AI model generating new data similar to existing data?,"Generative AI,Reinforcement Learning,Regression,Classification",Generative AI,AI,Medium
+What is transfer learning?,"Applying a pre-trained model to a new task,Training a model from scratch,Combining multiple algorithms,Reducing model size",Applying a pre-trained model to a new task,Machine Learning,Medium
+Which loss function is commonly used for regression tasks?,"Mean Squared Error,Cross Entropy Loss,Hinge Loss,Log Loss",Mean Squared Error,Machine Learning,Easy
+What is CrewAI used for?,"Multi-agent collaboration,Data cleaning,Image recognition,Database management",Multi-agent collaboration,AI Agents,Medium
+Which AI concept involves making a machine simulate human conversation?,"Chatbot,Image Recognition,Reinforcement Learning,Dimensionality Reduction",Chatbot,AI,Easy
+What is an example of a generative AI model?,"GPT-4,Random Forest,KNN,SVM",GPT-4,AI,Easy
+What is backpropagation used for?,"Updating neural network weights,Visualizing data,Reducing dimensionality,Evaluating classification accuracy",Updating neural network weights,AI,Medium
+What is the main function of an environment in reinforcement learning?,"Provide rewards and feedback,Optimize model parameters,Store data,Classify images",Provide rewards and feedback,AI Agents,Medium
+Which framework is widely used for developing AI models?,"TensorFlow,SAP,Excel,Figma",TensorFlow,AI,Easy
+Which evaluation metric is used to measure the performance of a classification model with imbalanced data?,"F1 Score,Accuracy,R2 Score,MSE",F1 Score,Machine Learning,Medium
+What is an example of a weak AI system?,"Chess-playing AI,Self-aware robot,General-purpose AI,Human-level AI",Chess-playing AI,AI,Easy
+What does LLM pre-training involve?,"Learning from vast datasets,Real-time predictions,Reinforcement learning,Data labeling",Learning from vast datasets,AI,Medium
+What is the main advantage of using NNs over traditional algorithms?,"Ability to learn complex patterns,Faster computation,Lower storage needs,Easier implementation",Ability to learn complex patterns,AI,Medium
+Which concept measures how well a model generalizes to new data?,"Generalization Error,Training Loss,Learning Rate,Activation Function",Generalization Error,Machine Learning,Medium
+Which AI agent type is designed for problem-solving and planning?,"Goal-based Agent,Reactive Agent,Simple Reflex Agent,Learning Agent",Goal-based Agent,AI Agents,Medium
+What is a key limitation of AI agents?,"Lack of common sense reasoning,Infinite memory,Perfect accuracy,Unlimited computing power",Lack of common sense reasoning,AI Agents,Medium
+Which algorithm is commonly used for anomaly detection?,"Isolation Forest,Linear Regression,K-Means,Naive Bayes",Isolation Forest,Machine Learning,Medium
+Which AI technique powers recommendation systems like Netflix or YouTube?,"Collaborative Filtering,Clustering,Linear Regression,Reinforcement Learning",Collaborative Filtering,AI,Medium
+What is the main goal of ensemble learning?,"Improve model accuracy,Increase model size,Reduce training time,Reduce data volume",Improve model accuracy,Machine Learning,Medium
+Which AI system is capable of making decisions without human input?,"Autonomous Agent,Expert System,Rule-Based System,Chatbot",Autonomous Agent,AI Agents,Medium
+What is the purpose of the sigmoid function in a neural network?,"Output probabilities,Reduce dimensionality,Prevent overfitting,Adjust learning rate",Output probabilities,AI,Easy
+Which AI field involves training models to play video games?,"Reinforcement Learning,Supervised Learning,Classification,Clustering",Reinforcement Learning,AI,Easy
+What is one common challenge in training deep learning models?,"Overfitting,Data Cleaning,Data Reduction,Cluster Formation",Overfitting,Machine Learning,Medium
+Which concept refers to an AI system interacting with its environment to maximize rewards?,"Reinforcement Learning,Supervised Learning,Data Mining,Neural Networks",Reinforcement Learning,AI,Medium
+What is the purpose of the attention mechanism in AI?,"Focus on relevant input data,Increase training time,Enhance data storage,Simplify algorithms",Focus on relevant input data,AI,Medium
+Which type of AI is designed to emulate human cognition?,"AGI (Artificial General Intelligence),Narrow AI,Reactive AI,Rule-Based AI",AGI (Artificial General Intelligence),AI,Medium
+What does the term 'hyperparameter tuning' refer to?,"Optimizing model parameters,Fixing training data,Generating synthetic data,Visualizing results",Optimizing model parameters,Machine Learning,Medium
+Which AI concept involves simulating the brain's neural structure?,"Neural Networks,Support Vector Machines,Decision Trees,Linear Regression",Neural Networks,AI,Easy
+Which AI framework is known for its ease of use in building neural networks?,"Keras,SQL,Excel,GitHub",Keras,AI,Easy
+What is a chatbot powered by GPT called?,"Conversational AI,Vision AI,Database AI,Signal AI",Conversational AI,AI,Easy
+What is an AI model that generates images from text called?,"Generative AI,Rule-Based AI,Linear Model,Decision Tree",Generative AI,AI,Easy
+Which AI agent type acts only based on the current state?,"Reactive Agent,Goal-Based Agent,Learning Agent,Autonomous Agent",Reactive Agent,AI Agents,Medium
+What is Explainable AI (XAI) used for?,"Understanding model predictions,Increasing training data,Preventing model bias,Speeding up computation",Understanding model predictions,AI,Medium
+What does CPU stand for?,"Central Processing Unit,Computer Processing Unit,Control Processing Unit,Central Program Unit",Central Processing Unit,Computer Science,Easy
+Which programming language is known as the mother of all languages?,"C,C++,Java,Python",C,Computer Science,Easy
+What is the time complexity of a binary search algorithm?,"O(log n),O(n),O(n^2),O(1)",O(log n),Computer Science,Medium
+Which data structure follows the First In First Out (FIFO) principle?,"Queue,Stack,Heap,Tree",Queue,Computer Science,Easy
+What is the primary function of an operating system?,"Manage hardware and software resources,Run web applications,Create graphics,Analyze data",Manage hardware and software resources,Computer Science,Easy
+Which network topology connects all devices in a circular format?,"Ring,Bus,Star,Mesh",Ring,Computer Science,Medium
+What does HTML stand for?,"HyperText Markup Language,HyperText Machine Language,HighText Markup Language,HyperTransfer Markup Language",HyperText Markup Language,Computer Science,Easy
+Which protocol is used for sending emails?,"SMTP,HTTP,FTP,DNS",SMTP,Computer Science,Easy
+What is a primary key in a database?,"A unique identifier for a record,A password for accessing data,A storage device,A table header",A unique identifier for a record,Computer Science,Easy
+What does the acronym DNS stand for?,"Domain Name System,Data Network Server,Dynamic Network Service,Digital Number System",Domain Name System,Computer Science,Easy
+Which programming language is commonly used for AI development?,"Python,Java,C,Ruby",Python,Computer Science,Easy
+What is an example of a non-volatile memory?,"ROM,RAM,Cache,Register",ROM,Computer Science,Medium
+What is the purpose of an IP address?,"Identify devices on a network,Store user passwords,Compress files,Execute programs",Identify devices on a network,Computer Science,Easy
+Which algorithm is used to find the shortest path in a graph?,"Dijkstra’s Algorithm,Merge Sort,Bubble Sort,Binary Search",Dijkstra’s Algorithm,Computer Science,Medium
+What is an example of a relational database management system (RDBMS)?,"MySQL,Redis,MongoDB,Cassandra",MySQL,Computer Science,Easy
+Which layer of the OSI model handles data encryption?,"Presentation Layer,Application Layer,Data Link Layer,Network Layer",Presentation Layer,Computer Science,Medium
+What does HTTP stand for?,"HyperText Transfer Protocol,HyperText Transmission Protocol,HighText Transfer Protocol,Hyperlink Text Protocol",HyperText Transfer Protocol,Computer Science,Easy
+Which logic gate outputs true only if both inputs are true?,"AND,OR,NAND,XOR",AND,Computer Science,Easy
+What is the binary equivalent of the decimal number 13?,"1101,1011,1110,1001",1101,Computer Science,Medium
+What is an example of a high-level programming language?,"Python,Assembly,C,Machine Code",Python,Computer Science,Easy
+What is the purpose of a firewall in a network?,"Protect against unauthorized access,Compress data,Increase internet speed,Manage device storage",Protect against unauthorized access,Computer Science,Easy
+Which sorting algorithm has an average time complexity of O(n log n)?,"Merge Sort,Bubble Sort,Selection Sort,Insertion Sort",Merge Sort,Computer Science,Medium
+What is a compiler used for?,"Translate source code into machine code,Execute code directly,Debug programs,Store data",Translate source code into machine code,Computer Science,Easy
+What is the main function of RAM in a computer?,"Store temporary data,Perform calculations,Display images,Connect to the internet",Store temporary data,Computer Science,Easy
+Which component stores permanent data in a computer?,"Hard Drive,RAM,Cache,CPU",Hard Drive,Computer Science,Easy
+What does API stand for?,"Application Programming Interface,Advanced Program Integration,Automated Protocol Interaction,Active Process Interface",Application Programming Interface,Computer Science,Easy
+What is the primary function of DNS in the internet?,"Translate domain names to IP addresses,Encrypt web traffic,Host websites,Provide cloud storage",Translate domain names to IP addresses,Computer Science,Easy
+Which programming paradigm focuses on objects and classes?,"Object-Oriented Programming,Functional Programming,Procedural Programming,Declarative Programming",Object-Oriented Programming,Computer Science,Easy
+What is the term for an error in a program?,"Bug,Patch,Exception,Function",Bug,Computer Science,Easy
+What is the purpose of version control systems like Git?,"Track code changes,Enhance CPU speed,Manage network traffic,Create databases",Track code changes,Computer Science,Easy
+Which language is primarily used for web development on the client side?,"JavaScript,Python,C#,C++",JavaScript,Computer Science,Easy
+What is the primary role of a database management system (DBMS)?,"Store and manage data,Compile programs,Optimize networks,Manage CPU usage",Store and manage data,Computer Science,Easy
+Which software testing method focuses on evaluating internal code structure?,"White-box Testing,Black-box Testing,Regression Testing,Load Testing",White-box Testing,Computer Science,Medium
+What is the name of the process that converts source code into executable code?,"Compilation,Interpretation,Debugging,Rendering",Compilation,Computer Science,Easy
+What is a subnet mask used for?,"Define the network portion of an IP address,Encrypt data,Boost Wi-Fi signals,Block unwanted websites",Define the network portion of an IP address,Computer Science,Medium
+What is the function of an operating system kernel?,"Manage hardware resources,Render user interfaces,Handle web requests,Store data",Manage hardware resources,Computer Science,Medium
+Which data structure is used to implement a LIFO mechanism?,"Stack,Queue,Heap,Tree",Stack,Computer Science,Easy
+What is an IP address version with 128-bit addressing?,"IPv6,IPv4,IPv5,IPv3",IPv6,Computer Science,Medium
+What is a virtual machine (VM)?,"A software emulation of a physical computer,An AI agent,A computer virus,A file compression tool",A software emulation of a physical computer,Computer Science,Easy
+What is the difference between HTTP and HTTPS?,"HTTPS is encrypted,HTTP is faster,HTTP stores more data,HTTPS is offline only",HTTPS is encrypted,Computer Science,Easy
+What does SSD stand for?,"Solid State Drive,Super Secure Data,Storage Service Device,Software System Disk",Solid State Drive,Computer Science,Easy
+Which number system uses only 0s and 1s?,"Binary,Decimal,Octal,Hexadecimal",Binary,Computer Science,Easy
+What is a primary characteristic of cloud computing?,"On-demand resource availability,Offline storage,High CPU consumption,Manual hardware management",On-demand resource availability,Computer Science,Easy
+Which data structure is best for finding the smallest element quickly?,"Min-Heap,Stack,Linked List,Queue",Min-Heap,Computer Science,Medium
+What is an algorithm?,"A step-by-step procedure to solve a problem,A computer hardware component,A software error,A programming language",A step-by-step procedure to solve a problem,Computer Science,Easy
