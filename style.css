@@ -1,0 +1,73 @@
+/* style.css */
+.big-font {
+    font-size: 24px !important;
+}
+
+/* General Styles */
+body {
+    font-family: sans-serif; /* Or a more specific font */
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text */
+}
+
+.streamlit-container {
+    max-width: 800px; /* Adjust as needed */
+    padding-top: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #007bff; /* Blue headings */
+}
+
+/* Big Font Class (Already Exists) */
+.big-font {
+    font-size: 24px !important;
+}
+
+/* Radio Button Styles */
+.stRadio > label > div > p {
+    font-size: 18px;
+}
+
+/* Button Styles */
+.stButton > button {
+    background-color: #28a745; /* Green button */
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+/* Success and Error Messages */
+.stSuccess {
+    background-color: #d4edda; /* Light green background */
+    color: #155724; /* Dark green text */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.stError {
+    background-color: #f8d7da; /* Light red background */
+    color: #721c24; /* Dark red text */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Progress Bar */
+div[role="progressbar"] > div {
+    background-color: #007bff !important; /* Blue progress bar */
+}
+
+/* Add some spacing between elements */
+div {
+    margin-bottom: 10px;
+}
