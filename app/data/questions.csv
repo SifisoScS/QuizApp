@@ -1,491 +1,329 @@
 question,options,answer,category,difficulty
+What does AI stand for?,"Artificial Intelligence,Automated Information,Advanced Integration,Artificial Interaction",Artificial Intelligence,Artificial Intelligence,Easy
+Which of the following is a common application of AI?,"Self-driving cars,Social media,Online shopping,All of the above",All of the above,Artificial Intelligence,Easy
+What is a chatbot?,"A computer program that simulates conversation,An AI that plays games,An online shopping assistant,A robot",A computer program that simulates conversation,Artificial Intelligence,Easy
+What is machine learning?,"A subset of AI that learns from data,A type of computer programming,A method of data storage,A hardware component",A subset of AI that learns from data,Artificial Intelligence,Easy
+Which of the following is a type of AI?,"Narrow AI,General AI,Super AI,All of the above",All of the above,Artificial Intelligence,Easy
+What is the purpose of AI?,"To perform tasks that require human intelligence,To replace humans,To create robots,To analyze data",To perform tasks that require human intelligence,Artificial Intelligence,Easy
+What is an example of AI in everyday life?,"Voice assistants,Manual labor,Traditional computing,Paper filing",Voice assistants,Artificial Intelligence,Easy
+What is the main goal of AI research?,"To create intelligent machines,To develop software,To improve hardware,To analyze data",To create intelligent machines,Artificial Intelligence,Easy
+What is deep learning?,"A type of machine learning that uses neural networks,A method of data storage,A programming language,A hardware component",A type of machine learning that uses neural networks,Artificial Intelligence,Easy
+What is the Turing Test used for?,"To measure a machine's ability to exhibit intelligent behavior,To test software,To evaluate hardware,To analyze data",To measure a machine's ability to exhibit intelligent behavior,Artificial Intelligence,Easy
+What is the primary goal of Artificial Intelligence?,"To create machines that can think,To automate tasks,To enhance human capabilities,To replace human jobs",To create machines that can think,Artificial Intelligence,Medium
+Which of the following is a type of machine learning?,"Supervised learning,Unsupervised learning,Reinforcement learning,All of the above",All of the above,Artificial Intelligence,Medium
+What is the difference between AI and machine learning?,"AI is a broader concept,Machine learning is a subset of AI,AI includes machine learning,All of the above",All of the above,Artificial Intelligence,Medium
+What is reinforcement learning?,"A type of machine learning that rewards desired behaviors,A method of data storage,A programming language,A hardware component",A type of machine learning that rewards desired behaviors,Artificial Intelligence,Medium
+Which algorithm is commonly used in AI?,"Decision Trees,Linear Regression,Neural Networks,All of the above",All of the above,Artificial Intelligence,Medium
+What is natural language processing?,"A field of AI that focuses on the interaction between computers and humans through language,A type of programming,A method of data storage,A hardware component",A field of AI that focuses on the interaction between computers and humans through language,Artificial Intelligence,Medium
+What is a neural network?,"A computational model inspired by the human brain,A type of hardware,A programming language,A method of data storage",A computational model inspired by the human brain,Artificial Intelligence,Medium
+What is the significance of big data in AI?,"It provides the data needed for training AI models,It slows down processing,It is irrelevant,It is only useful for storage",It provides the data needed for training AI models,Artificial Intelligence,Medium
+What is the role of ethics in AI?,"To ensure responsible use of AI technology,To limit AI development,To promote AI over human jobs,To create regulations",To ensure responsible use of AI technology,Artificial Intelligence,Medium
+What is the black box problem in AI?,"Lack of transparency in AI decision-making,High cost of AI,Speed of processing,Data storage",Lack of transparency in AI decision-making,Artificial Intelligence,Medium
+What is the main challenge in Natural Language Processing?,"Understanding context,Data storage,Speed of processing,User  interface",Understanding context,Artificial Intelligence,Hard
+What is the purpose of reinforcement learning in AI?,"To learn from mistakes,To store data,To create user interfaces,To analyze data",To learn from mistakes,Artificial Intelligence,Hard
+Which algorithm is commonly used for classification tasks in machine learning?,"K-means,Decision Trees,Linear Regression,Clustering",Decision Trees,Artificial Intelligence,Hard
+What is overfitting in machine learning?," Model performs well on training data but poorly on unseen data,Model is too simple,Model is too complex,Model has no data",Model performs well on training data but poorly on unseen data,Artificial Intelligence,Hard
+What is the main advantage of using deep learning?,"Ability to process large amounts of data,Speed of execution,Low cost,Easy implementation",Ability to process large amounts of data,Artificial Intelligence,Hard
+What is a common metric for evaluating the performance of a classification model?,"Accuracy,Speed,Cost,Complexity",Accuracy,Artificial Intelligence,Hard
+What is the role of a data scientist?,"To analyze data,To write code,To manage projects,To design websites",To analyze data,Artificial Intelligence,Hard
+What is the significance of the "black box" problem in AI?,"Lack of transparency in decision-making,High cost of implementation,Speed of processing,Data storage",Lack of transparency in decision-making,Artificial Intelligence,Hard
+What is transfer learning in AI?,"Using a pre-trained model on a new task,Creating new algorithms,Storing data,Analyzing user behavior",Using a pre-trained model on a new task,Artificial Intelligence,Hard
+What is an AI agent?,"A system that perceives its environment and takes actions,An AI that plays games,A robot,An online assistant",A system that perceives its environment and takes actions,AI Agents,Easy
+Which of the following is an example of an AI agent?,"Self-driving car,Smart thermostat,Voice assistant,All of the above",All of the above,AI Agents,Easy
+What is the main function of a reactive agent?,"To respond to current situations,To learn from past experiences,To plan future actions,To store data",To respond to current situations,AI Agents,Easy
+What is a proactive agent?,"An agent that takes initiative based on predictions,An agent that only reacts,An agent that stores data,An agent that analyzes information",An agent that takes initiative based on predictions,AI Agents,Easy
+What is the purpose of a learning agent?,"To improve its performance over time,To store data,To analyze information,To create user interfaces",To improve its performance over time,AI Agents,Easy
+What is a simple example of an AI agent?,"A chatbot,An online search engine,An email filter,All of the above",All of the above,AI Agents,Easy
+What is the role of sensors in AI agents?,"To gather information from the environment,To store data,To analyze information,To create user interfaces",To gather information from the environment,AI Agents,Easy
+What is the difference between a simple reflex agent and a model-based agent?,"Model-based agents consider past states,Simple reflex agents do not,They are the same,Model-based agents are slower",Model-based agents consider past states,AI Agents,Easy
+What is an example of a goal-based agent?,"A robot that cleans a house,An email filter,An online search engine,All of the above",A robot that cleans a house,AI Agents,Easy
+What is the main advantage of using AI agents?,"They can automate tasks,They are always accurate,They require no maintenance,They are inexpensive",They can automate tasks,AI Agents,Easy
+What is the primary function of an intelligent agent?,"To perceive and act,To store data,To analyze information,To create user interfaces",To perceive and act,AI Agents,Medium
+Which of the following is a characteristic of an autonomous agent?,"It operates without human intervention,It requires constant supervision,It is only reactive,It cannot learn",It operates without human intervention,AI Agents,Medium
+What is the role of an environment in AI agents?,"It provides context for the agent's actions,It stores data,It analyzes information,It creates user interfaces",It provides context for the agent's actions,AI Agents,Medium
+What is a multi-agent system?,"A system where multiple agents interact,An agent that can perform multiple tasks,An agent that learns from data,An agent that stores information",A system where multiple agents interact,AI Agents,Medium
+What is the difference between a deliberative agent and a reactive agent?,"Deliberative agents plan actions,Reactive agents respond to stimuli,They are the same,Deliberative agents are slower",Deliberative agents plan actions,AI Agents,Medium
+What is the purpose of a planning agent?,"To create a sequence of actions to achieve goals,To store data,To analyze information,To create user interfaces",To create a sequence of actions to achieve goals,AI Agents,Medium
+What is the significance of feedback in learning agents?,"It helps improve performance,It is irrelevant ,It slows down learning,It is only for data storage",It helps improve performance,AI Agents,Medium
+What is the role of a utility function in AI agents?,"To evaluate the desirability of different states,To store data,To analyze information,To create user interfaces",To evaluate the desirability of different states,AI Agents,Medium
+What is the difference between a goal-based agent and a utility-based agent?,"Goal-based agents aim for specific objectives,Utility-based agents maximize overall satisfaction,They are the same,Utility-based agents are less efficient",Goal-based agents aim for specific objectives,AI Agents,Medium
+What is the main challenge in designing AI agents?,"Balancing autonomy and control,Ensuring accuracy,Reducing costs,Improving speed",Balancing autonomy and control,AI Agents,Medium
+What is the significance of the agent-environment interface?,"It defines how agents interact with their environment,It stores data,It analyzes information,It creates user interfaces",It defines how agents interact with their environment,AI Agents,Hard
+What is the role of reinforcement learning in AI agents?,"To learn optimal actions through trial and error,To store data,To create user interfaces,To analyze information",To learn optimal actions through trial and error,AI Agents,Hard
+What is the difference between a reactive agent and a deliberative agent?,"Reactive agents respond immediately,Deliberative agents plan ahead,They are the same,Deliberative agents are faster",Reactive agents respond immediately,AI Agents,Hard
+What is the purpose of a multi-agent system?,"To enable cooperation among agents,To store data,To analyze information,To create user interfaces",To enable cooperation among agents,AI Agents,Hard
+What is the main challenge in developing autonomous agents?,"Ensuring reliability in unpredictable environments,Reducing costs,Improving speed,Enhancing user interfaces",Ensuring reliability in unpredictable environments,AI Agents,Hard
+What is the significance of the exploration-exploitation trade-off in AI agents?,"It balances learning new information and using known information,It is irrelevant,It only applies to data storage,It slows down performance",It balances learning new information and using known information,AI Agents,Hard
+What is the role of perception in AI agents?,"To gather information from the environment,To store data,To analyze information,To create user interfaces",To gather information from the environment,AI Agents,Hard
+What is the difference between a model-based agent and a simple reflex agent?,"Model-based agents use internal models,Simple reflex agents do not,They are the same,Model-based agents are slower",Model-based agents use internal models,AI Agents,Hard
+What is the significance of the utility-based approach in AI agents?,"It allows agents to make decisions based on preferences,It is irrelevant,It only applies to data storage,It slows down performance",It allows agents to make decisions based on preferences,AI Agents,Hard
+What is the main advantage of using hybrid agents?,"They combine different approaches for better performance,They are simpler,They are less expensive,They require no maintenance",They combine different approaches for better performance,AI Agents,Hard
 What is the capital of France?,"Paris,London,Rome,Berlin",Paris,Geography,Easy
-What is 5 + 7?,"10,11,12,13",12,Math,Easy
-What is the chemical symbol for gold?,"Au,Ag,Fe,Pb",Au,Chemistry,Medium
-What is the largest ocean on Earth?,"Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean",Pacific Ocean,Geography,Medium
-Who wrote 'Pride and Prejudice'?,"Jane Austen,Charlotte Brontë,Mark Twain,Charles Dickens",Jane Austen,Literature,Medium
-What is the powerhouse of the cell?,"Nucleus,Mitochondria,Ribosome,Endoplasmic Reticulum",Mitochondria,Biology,Medium
-Which planet is known as the Red Planet?,"Earth,Mars,Venus,Jupiter",Mars,Astronomy,Easy
-What is the largest mammal in the world?,"Elephant,Blue Whale,Giraffe,Great White Shark",Blue Whale,Biology,Medium
-In which year did the Titanic sink?,"1912,1905,1898,1920",1912,History,Medium
-What is the smallest country in the world?,"Vatican City,Monaco,Nauru,Malta",Vatican City,Geography,Medium
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the value of pi to two decimal places?,"3.14,3.15,3.16,3.17",3.14,Math,Easy
-What is the chemical symbol for water?,"H2O,CO2,NaCl,O2",H2O,Chemistry,Easy
-What is the largest country by area?,"Russia,Canada,China,USA",Russia,Geography,Medium
-Who painted the Mona Lisa?,"Leonardo da Vinci,Michelangelo,Raphael,Donatello",Leonardo da Vinci,Art,Medium
-Who painted the Mona Lisa?,"Leonardo da Vinci,Michelangelo,Raphael,Donatello",Leonardo da Vinci,Art,Easy
-What is the primary color of the sky on a clear day?,"Blue,Green,Red,Yellow",Blue,Nature,Easy
-Which artist is known for the ceiling of the Sistine Chapel?,"Michelangelo,Van Gogh,Picasso,Dali",Michelangelo,Art,Easy
-What is the name of the famous sculpture of a man with a slingshot?,"David,The Thinker,Venus de Milo,The Kiss",David,Art,Easy
-Which painting features a woman with a mysterious smile?,"The Last Supper,The Girl with a Pearl Earring,Mona Lisa,Starry Night",Mona Lisa,Art,Easy
-What is the term for a painting done on wet plaster?,"Fresco,Oil,Watercolor,Acrylic",Fresco,Art,Easy
-Who painted The Starry Night?,"Van Gogh,Monet,Picasso,Dali",Van Gogh,Art,Easy
-What is the name of the famous painting of a girl with a pearl earring?,"The Girl with a Pearl Earring,The Scream,The Kiss,The Birth of Venus",The Girl with a Pearl Earring,Art,Easy
-Which artist is famous for his water lilies series?,"Monet,Picasso,Dali,Van Gogh",Monet,Art,Easy
-What is the name of the famous painting by Edvard Munch?,"The Scream,The Kiss,The Last Supper,The Night Watch",The Scream,Art,Easy
-Who painted The Persistence of Memory?,"Dali,Picasso,Monet,Van Gogh",Dali,Art,Easy
-What is the primary medium used in watercolor painting?,"Water,Oil,Acrylic,Pastel",Water,Art,Easy
-Which artist is known for his abstract works and use of color?,"Pollock,Monet,Picasso,Dali",Pollock,Art,Easy
-What is the name of the famous painting of a woman with a fan?,"The Woman with a Fan,The Girl with a Pearl Earring,Mona Lisa,The Kiss",The Woman with a Fan,Art,Easy
-Who is known for the painting The Birth of Venus?,"Botticelli,Michelangelo,Van Gogh,Monet",Botticelli,Art,Easy
-What is the term for a painting of a still life?,"Still Life,Portrait,Landscape,Abstract",Still Life,Art,Easy
-Which artist is famous for his pop art?,"Warhol,Monet,Dali,Picasso",Warhol,Art,Easy
-What is the name of the famous painting of a boy with a pipe?,"Boy with a Pipe,The Kiss,The Last Supper,The Night Watch",Boy with a Pipe,Art,Easy
-Who painted The Night Watch?,"Rembrandt,Van Gogh,Monet,Dali",Rembrandt,Art,Easy
-What is the term for a painting that depicts a scene from nature?,"Landscape,Portrait,Still Life,Abstract",Landscape,Art,Easy
-What is the main subject of the painting The Last Supper?,"Jesus and his disciples,The Virgin Mary,The Apostles,The Angels",Jesus and his disciples,Art,Medium
-Who painted Guernica?,"Picasso,Dali,Monet,Van Gogh",Picasso,Art,Medium
-What is the style of painting that uses small dots of color?,"Pointillism,Impressionism,Expressionism,Cubism",Pointillism,Art,Medium
-Which artist is known for his surrealist works?,"Dali,Monet,Picasso,Van Gogh",Dali,Art,Medium
-What is the name of the famous painting by Grant Wood?,"American Gothic,The Kiss,The Last Supper,The Night Watch",American Gothic,Art,Medium
-Who painted The Creation of Adam?,"Michelangelo,Da Vinci,Van Gogh,Monet",Michelangelo,Art,Medium
-What is the term for a painting that depicts a scene from mythology?,"Mythological Painting,Historical Painting,Portrait,Still Life",Mythological Painting,Art,Medium
-Which artist is known for his use of light and shadow?,"Caravaggio,Monet,Picasso,Dali",Caravaggio,Art,Medium
-What is the name of the famous painting by Edward Hopper?,"Nighthawks,The Kiss,The Last Supper,The Night Watch",Nighthawks,Art,Medium
-Who painted The School of Athens?,"Raphael,Michelangelo,Da Vinci,Van Gogh",Raphael,Art,Medium
-What is the primary medium used in oil painting?,"Oil,Water,Acrylic,Pastel",Oil,Art,Medium
-Which artist is known for his works featuring the American flag?,"Jasper Johns,Warhol,Dali,Pollock",Jasper Johns,Art,Medium
-What is the term for a painting that depicts a scene from everyday life?,"Genre Painting,Portrait,Landscape,Abstract",Genre Painting,Art,Medium
-Who painted The Kiss?,"Gustav Klimt,Monet,Picasso,Dali",Gustav Klimt,Art,Medium
-What is the name of the famous painting by Henri Matisse?,"The Dance,The Kiss,The Last Supper,The Night Watch",The Dance,Art,Medium
-Which artist is known for his large-scale installations?,"Christo,Monet,Dali,Picasso",Christo,Art,Medium
-What is the style of painting characterized by bold colors and exaggerated forms?,"Expressionism,Impressionism,Cubism,Surrealism",Expressionism,Art,Medium
-Who painted The Girl with a Pearl Earring?,"Vermeer,Monet,Picasso,Dali",Vermeer,Art,Medium
-What is the term for a painting that depicts a scene from history?,"Historical Painting,Portrait,Still Life,Abstract",Historical Painting,Art,Medium
-What is the primary theme of the painting The Persistence of Memory?,"Time,Love,War,Nature",Time,Art,Hard
-Who is the artist behind the Campbell's Soup Cans series?,"Andy Warhol,Picasso,Dali,Monet",Andy Warhol,Art,Hard
-What is the name of the technique used to create the illusion of depth in painting?,"Chiaroscuro,Perspective,Impressionism,Pointillism",Perspective,Art,Hard
-Which artist is known for his work in the Dada movement?,"Marcel Duchamp,Monet,Picasso,Dali",Marcel Duchamp,Art,Hard
-What is the term for a painting that uses geometric shapes?,"Cubism,Surrealism,Impressionism,Expressionism",Cubism,Art,Hard
-Who painted The Birth of Venus?,"Botticelli,Michelangelo,Van Gogh,Monet",Botticelli,Art,Hard
-What is the primary focus of the painting The Night Watch?,"A group of militia,The Last Supper,The Kiss,The Birth of Venus",A group of militia,Art,Hard
-Which artist is known for his use of color theory in painting?,"Henri Matisse,Monet,Picasso,Dali",Henri Matisse,Art,Hard
-What is the name of the famous painting by Jackson Pollock?,"No. 5 - 1948,The Kiss,The Last Supper,The Night Watch",No. 5 - 1948,Art,Hard
-Who painted The Garden of Earthly Delights?,"Hieronymus Bosch,Monet,Picasso,Dali",Hieronymus Bosch,Art,Hard
-What is the term for a painting that depicts a scene from the Bible?,"Biblical Painting,Historical Painting,Portrait,Still Life",Biblical Painting,Art,Hard
-Which artist is known for his work in the Surrealist movement?,"Salvador Dali,Monet,Picasso,Van Gogh",Salvador Dali,Art,Hard
-What is the smallest continent?,"Australia,Europe,Asia,Africa",Australia,Geography,Easy
-What is the capital of Japan?,"Tokyo,Osaka,Kyoto,Hiroshima",Tokyo,Geography,Easy
-What is the square root of 64?,"6,7,8,9",8,Math,Easy
-What is the chemical symbol for sodium?,"Na,K,Cl,So",Na,Chemistry,Easy
-What is the longest river in the world?,"Nile,Amazon,Yangtze,Mississippi",Nile,Geography,Medium
-Who wrote '1984'?,"George Orwell,Aldous Huxley,Ray Bradbury,Philip K. Dick",George Orwell,Literature,Medium
-What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Medium
-What is the largest desert in the world?,"Sahara Desert,Arabian Desert,Gobi Desert,Kalahari Desert",Sahara Desert,Geography,Medium
-What is the chemical symbol for carbon?,"C,Ca,Co,Cd",C,Chemistry,Easy
-Who discovered penicillin?,"Alexander Fleming,Louis Pasteur,Marie Curie,Joseph Lister",Alexander Fleming,Biology,Medium
-What is the capital of Brazil?,"Brasília,Rio de Janeiro,São Paulo,Salvador",Brasília,Geography,Medium
-What is the largest planet in the solar system?,"Earth,Jupiter,Saturn,Uranus",Jupiter,Astronomy,Easy
-What is the chemical symbol for oxygen?,"O,Ox,O2,Oz",O,Chemistry,Easy
+Which river is the longest in the world?,"Amazon,Nile,Mississippi,Yangtze",Nile,Geography,Easy
+What is the largest continent?,"Asia,Africa,Europe,Oceania",Asia,Geography,Easy
+Which country has the largest population?,"China,India,USA,Indonesia",China,Geography,Easy
+What mountain range runs along the border between the USA and Canada?,"Appalachians,Rockies,Andes,Alps",Rockies,Geography,Easy
+What is the smallest country in the world?,"Vatican City,Monaco,Nauru,Malta",Vatican City,Geography,Easy
+Which ocean is the largest?,"Atlantic,Indian,Arctic,Pacific",Pacific,Geography,Easy
+What is the capital city of Japan?,"Seoul,Tokyo,Beijing,Bangkok",Tokyo,Geography,Easy
+Which desert is the largest in the world?,"Sahara,Arabian,Gobi,Patagonian",Sahara,Geography,Easy
+What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Easy
+What country is known as the Land of the Rising Sun?,"Japan,China,Thailand,Indonesia",Japan,Geography,Medium
+Which country is both a continent and a country?,"Australia,USA,Spain,France",Australia,Geography,Medium
 What is the capital of Canada?,"Ottawa,Toronto,Vancouver,Montreal",Ottawa,Geography,Medium
-What is the boiling point of water in Celsius?,"100°C,90°C,80°C,110°C",100°C,Chemistry,Easy
-Who wrote 'The Great Gatsby'?,"F. Scott Fitzgerald,Ernest Hemingway,Mark Twain,John Steinbeck",F. Scott Fitzgerald,Literature,Medium
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for iron?,"Fe,I,Ir,In",Fe,Chemistry,Easy
-What is the largest island in the world?,"Greenland,Madagascar,Borneo,New Guinea",Greenland,Geography,Medium
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for silver?,"Ag,Au,Si,Sv",Ag,Chemistry,Medium
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for potassium?,"K,P,Ko,Ka",K,Chemistry,Easy
-What is the capital of India?,"New Delhi,Mumbai,Bangalore,Kolkata",New Delhi,Geography,Easy
-What is the chemical symbol for nitrogen?,"N,Ni,Na,No",N,Chemistry,Easy
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for helium?,"He,H,Hi,Ha",He,Chemistry,Easy
-What is the capital of South Africa?,"Pretoria,Cape Town,Johannesburg,Durban",Pretoria,Geography,Medium
-What is the chemical symbol for calcium?,"Ca,Cl,Cm,Cu",Ca,Chemistry,Easy
-What is the capital of Argentina?,"Buenos Aires,Córdoba,Rosario,Mendoza",Buenos Aires,Geography,Medium
-What is the chemical symbol for hydrogen?,"H,Hy,He,Ha",H,Chemistry,Easy
-What is the capital of Egypt?,"Cairo,Alexandria,Giza,Luxor",Cairo,Geography,Medium
-What is the chemical symbol for chlorine?,"Cl,Ch,Co,Ca",Cl,Chemistry,Easy
-What is the capital of Mexico?,"Mexico City,Guadalajara,Monterrey,Puebla",Mexico City,Geography,Medium
-What is the chemical symbol for sulfur?,"S,Su,So,Sl",S,Chemistry,Easy
-What is the capital of South Korea?,"Seoul,Busan,Incheon,Daegu",Seoul,Geography,Medium
-What is the chemical symbol for phosphorus?,"P,Ph,Po,Ps",P,Chemistry,Medium
-What is the capital of Thailand?,"Bangkok,Chiang Mai,Phuket,Pattaya",Bangkok,Geography,Medium
-What is the chemical symbol for magnesium?,"Mg,Mn,Ma,Mh",Mg,Chemistry,Easy
-What is the capital of Vietnam?,"Hanoi,Ho Chi Minh City,Da Nang,Haiphong",Hanoi,Geography,Medium
-What is the chemical symbol for zinc?,"Zn,Zi,Za,Ze",Zn,Chemistry,Easy
-What is the capital of Indonesia?,"Jakarta,Surabaya,Bandung,Medan",Jakarta,Geography,Medium
-What is the chemical symbol for copper?,"Cu,Co,Cp,Ca",Cu,Chemistry,Easy
-What is the capital of Turkey?,"Ankara,Istanbul,Izmir,Bursa",Ankara,Geography,Medium
-What is the chemical symbol for lead?,"Pb,Le,Ld,Pl",Pb,Chemistry,Medium
-What is the capital of Saudi Arabia?,"Riyadh,Jeddah,Mecca,Medina",Riyadh,Geography,Medium
-What is the chemical symbol for mercury?,"Hg,Me,Mr,Hy",Hg,Chemistry,Medium
-What is the capital of Nigeria?,"Abuja,Lagos,Kano,Ibadan",Abuja,Geography,Medium
-What is the chemical symbol for tin?,"Sn,Ti,Tn,Si",Sn,Chemistry,Medium
-What is the capital of Pakistan?,"Islamabad,Karachi,Lahore,Faisalabad",Islamabad,Geography,Medium
-What is the chemical symbol for nickel?,"Ni,Nk,Ne,Na",Ni,Chemistry,Easy
-What is the capital of Bangladesh?,"Dhaka,Chittagong,Khulna,Rajshahi",Dhaka,Geography,Medium
-What is the chemical symbol for aluminum?,"Al,Am,Au,An",Al,Chemistry,Easy
-What is the capital of the Philippines?,"Manila,Cebu,Davao,Quezon City",Manila,Geography,Medium
-What is the chemical symbol for silicon?,"Si,Sl,Sn,Sc",Si,Chemistry,Easy
-What is the capital of Malaysia?,"Kuala Lumpur,George Town,Johor Bahru,Penang",Kuala Lumpur,Geography,Medium
-What is the chemical symbol for neon?,"Ne,No,Ni,Na",Ne,Chemistry,Easy
-What is the capital of the United Kingdom?,"London,Manchester,Birmingham,Liverpool",London,Geography,Easy
-What is the chemical symbol for argon?,"Ar,Ag,An,Au",Ar,Chemistry,Easy
-What is the capital of France?,"Paris,Lyon,Marseille,Nice",Paris,Geography,Easy
-What is the chemical symbol for krypton?,"Kr,Ky,Kp,Kt",Kr,Chemistry,Medium
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the chemical symbol for xenon?,"Xe,Xn,Xi,Xa",Xe,Chemistry,Medium
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for radon?,"Rn,Ra,Rd,Ro",Rn,Chemistry,Medium
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for uranium?,"U,Ur,Un,Ua",U,Chemistry,Hard
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for plutonium?,"Pu,Pl,Pt,Po",Pu,Chemistry,Hard
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for radium?,"Ra,Rd,Rm,Rn",Ra,Chemistry,Hard
-What is the capital of Japan?,"Tokyo,Osaka,Kyoto,Hiroshima",Tokyo,Geography,Easy
-What is the chemical symbol for polonium?,"Po,Pl,Pn,Pa",Po,Chemistry,Hard
-What is the capital of India?,"New Delhi,Mumbai,Bangalore,Kolkata",New Delhi,Geography,Easy
-What is the chemical symbol for francium?,"Fr,Fa,Fn,Fi",Fr,Chemistry,Hard
-What is the capital of Brazil?,"Brasília,Rio de Janeiro,São Paulo,Salvador",Brasília,Geography,Medium
-What is the chemical symbol for astatine?,"At,As,Aa,An",At,Chemistry,Hard
-What is the capital of Canada?,"Ottawa,Toronto,Vancouver,Montreal",Ottawa,Geography,Medium
-What is the chemical symbol for bismuth?,"Bi,Bs,Bm,Bh",Bi,Chemistry,Medium
-What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Medium
-What is the chemical symbol for antimony?,"Sb,An,At,Am",Sb,Chemistry,Medium
-What is the capital of South Africa?,"Pretoria,Cape Town,Johannesburg,Durban",Pretoria,Geography,Medium
-What is the chemical symbol for tellurium?,"Te,Tl,Tn,Ta",Te,Chemistry,Medium
-What is the capital of Argentina?,"Buenos Aires,Córdoba,Rosario,Mendoza",Buenos Aires,Geography,Medium
-What is the chemical symbol for iodine?,"I,Io,In,Id",I,Chemistry,Easy
-What is the capital of Egypt?,"Cairo,Alexandria,Giza,Luxor",Cairo,Geography,Medium
-What is the chemical symbol for bromine?,"Br,Bm,Bn,Ba",Br,Chemistry,Easy
-What is the capital of Mexico?,"Mexico City,Guadalajara,Monterrey,Puebla",Mexico City,Geography,Medium
-What is the chemical symbol for selenium?,"Se,Sl,Sn,Sa",Se,Chemistry,Easy
-What is the capital of South Korea?,"Seoul,Busan,Incheon,Daegu",Seoul,Geography,Medium
-What is the chemical symbol for arsenic?,"As,Ar,An,Au",As,Chemistry,Medium
-What is the capital of Thailand?,"Bangkok,Chiang Mai,Phuket,Pattaya",Bangkok,Geography,Medium
-What is the chemical symbol for germanium?,"Ge,Gr,Gn,Ga",Ge,Chemistry,Medium
-What is the capital of Vietnam?,"Hanoi,Ho Chi Minh City,Da Nang,Haiphong",Hanoi,Geography,Medium
-What is the chemical symbol for gallium?,"Ga,Gl,Gn,Gi",Ga,Chemistry,Medium
-What is the capital of Indonesia?,"Jakarta,Surabaya,Bandung,Medan",Jakarta,Geography,Medium
-What is the chemical symbol for indium?,"In,Id,Io,Im",In,Chemistry,Medium
-What is the capital of Turkey?,"Ankara,Istanbul,Izmir,Bursa",Ankara,Geography,Medium
-What is the chemical symbol for thallium?,"Tl,Th,Tn,Ta",Tl,Chemistry,Medium
-What is the capital of Saudi Arabia?,"Riyadh,Jeddah,Mecca,Medina",Riyadh,Geography,Medium
-What is the chemical symbol for lead?,"Pb,Le,Ld,Pl",Pb,Chemistry,Medium
-What is the capital of Nigeria?,"Abuja,Lagos,Kano,Ibadan",Abuja,Geography,Medium
-What is the chemical symbol for bismuth?,"Bi,Bs,Bm,Bh",Bi,Chemistry,Medium
-What is the capital of Pakistan?,"Islamabad,Karachi,Lahore,Faisalabad",Islamabad,Geography,Medium
-What is the chemical symbol for polonium?,"Po,Pl,Pn,Pa",Po,Chemistry,Hard
-What is the capital of Bangladesh?,"Dhaka,Chittagong,Khulna,Rajshahi",Dhaka,Geography,Medium
-What is the chemical symbol for astatine?,"At,As,Aa,An",At,Chemistry,Hard
-What is the capital of the Philippines?,"Manila,Cebu,Davao,Quezon City",Manila,Geography,Medium
-What is the chemical symbol for radon?,"Rn,Ra,Rd,Ro",Rn,Chemistry,Medium
-What is the capital of Malaysia?,"Kuala Lumpur,George Town,Johor Bahru,Penang",Kuala Lumpur,Geography,Medium
-What is the chemical symbol for francium?,"Fr,Fa,Fn,Fi",Fr,Chemistry,Hard
-What is the capital of the United Kingdom?,"London,Manchester,Birmingham,Liverpool",London,Geography,Easy
-What is the chemical symbol for radium?,"Ra,Rd,Rm,Rn",Ra,Chemistry,Hard
-What is the capital of France?,"Paris,Lyon,Marseille,Nice",Paris,Geography,Easy
-What is the chemical symbol for actinium?,"Ac,At,An,Au",Ac,Chemistry,Hard
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the chemical symbol for thorium?,"Th,To,Tn,Ta",Th,Chemistry,Hard
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for protactinium?,"Pa,Pt,Pn,Po",Pa,Chemistry,Hard
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for uranium?,"U,Ur,Un,Ua",U,Chemistry,Hard
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for neptunium?,"Np,Nt,No,Na",Np,Chemistry,Hard
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for plutonium?,"Pu,Pl,Pt,Po",Pu,Chemistry,Hard
-What is the capital of Japan?,"Tokyo,Osaka,Kyoto,Hiroshima",Tokyo,Geography,Easy
-What is the chemical symbol for americium?,"Am,Ar,An,Au",Am,Chemistry,Hard
-What is the capital of India?,"New Delhi,Mumbai,Bangalore,Kolkata",New Delhi,Geography,Easy
-What is the chemical symbol for curium?,"Cm,Cr,Cn,Ca",Cm,Chemistry,Hard
-What is the capital of Brazil?,"Brasília,Rio de Janeiro,São Paulo,Salvador",Brasília,Geography,Medium
-What is the chemical symbol for berkelium?,"Bk,Bl,Bn,Ba",Bk,Chemistry,Hard
-What is the capital of Canada?,"Ottawa,Toronto,Vancouver,Montreal",Ottawa,Geography,Medium
-What is the chemical symbol for californium?,"Cf,Cl,Cn,Ca",Cf,Chemistry,Hard
-What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Medium
-What is the chemical symbol for einsteinium?,"Es,En,Ei,Ea",Es,Chemistry,Hard
-What is the capital of South Africa?,"Pretoria,Cape Town,Johannesburg,Durban",Pretoria,Geography,Medium
-What is the chemical symbol for fermium?,"Fm,Fl,Fn,Fa",Fm,Chemistry,Hard
-What is the capital of Argentina?,"Buenos Aires,Córdoba,Rosario,Mendoza",Buenos Aires,Geography,Medium
-What is the chemical symbol for mendelevium?,"Md,Ml,Mn,Ma",Md,Chemistry,Hard
-What is the capital of Egypt?,"Cairo,Alexandria,Giza,Luxor",Cairo,Geography,Medium
-What is the chemical symbol for nobelium?,"No,Nl,Nn,Na",No,Chemistry,Hard
-What is the capital of Mexico?,"Mexico City,Guadalajara,Monterrey,Puebla",Mexico City,Geography,Medium
-What is the chemical symbol for lawrencium?,"Lr,La,Ln,Lo",Lr,Chemistry,Hard
-What is the capital of South Korea?,"Seoul,Busan,Incheon,Daegu",Seoul,Geography,Medium
-What is the chemical symbol for rutherfordium?,"Rf,Rl,Rn,Ra",Rf,Chemistry,Hard
-What is the capital of Thailand?,"Bangkok,Chiang Mai,Phuket,Pattaya",Bangkok,Geography,Medium
-What is the chemical symbol for dubnium?,"Db,Dl,Dn,Da",Db,Chemistry,Hard
-What is the capital of Vietnam?,"Hanoi,Ho Chi Minh City,Da Nang,Haiphong",Hanoi,Geography,Medium
-What is the chemical symbol for seaborgium?,"Sg,Sl,Sn,Sa",Sg,Chemistry,Hard
-What is the capital of Indonesia?,"Jakarta,Surabaya,Bandung,Medan",Jakarta,Geography,Medium
-What is the chemical symbol for bohrium?,"Bh,Bl,Bn,Ba",Bh,Chemistry,Hard
-What is the capital of Turkey?,"Ankara,Istanbul,Izmir,Bursa",Ankara,Geography,Medium
-What is the chemical symbol for hassium?,"Hs,Hl,Hn,Ha",Hs,Chemistry,Hard
-What is the capital of Saudi Arabia?,"Riyadh,Jeddah,Mecca,Medina",Riyadh,Geography,Medium
-What is the chemical symbol for meitnerium?,"Mt,Ml,Mn,Ma",Mt,Chemistry,Hard
-What is the capital of Nigeria?,"Abuja,Lagos,Kano,Ibadan",Abuja,Geography,Medium
-What is the chemical symbol for darmstadtium?,"Ds,Dl,Dn,Da",Ds,Chemistry,Hard
-What is the capital of Pakistan?,"Islamabad,Karachi,Lahore,Faisalabad",Islamabad,Geography,Medium
-What is the chemical symbol for roentgenium?,"Rg,Rl,Rn,Ra",Rg,Chemistry,Hard
-What is the capital of Bangladesh?,"Dhaka,Chittagong,Khulna,Rajshahi",Dhaka,Geography,Medium
-What is the chemical symbol for copernicium?,"Cn,Cl,Cn,Ca",Cn,Chemistry,Hard
-What is the capital of the Philippines?,"Manila,Cebu,Davao,Quezon City",Manila,Geography,Medium
-What is the chemical symbol for nihonium?,"Nh,Nl,Nn,Na",Nh,Chemistry,Hard
-What is the capital of Malaysia?,"Kuala Lumpur,George Town,Johor Bahru,Penang",Kuala Lumpur,Geography,Medium
-What is the chemical symbol for flerovium?,"Fl,Fl,Fn,Fa",Fl,Chemistry,Hard
-What is the capital of the United Kingdom?,"London,Manchester,Birmingham,Liverpool",London,Geography,Easy
-What is the chemical symbol for moscovium?,"Mc,Ml,Mn,Ma",Mc,Chemistry,Hard
-What is the capital of France?,"Paris,Lyon,Marseille,Nice",Paris,Geography,Easy
-What is the chemical symbol for livermorium?,"Lv,La,Ln,Lo",Lv,Chemistry,Hard
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the chemical symbol for tennessine?,"Ts,Tl,Tn,Ta",Ts,Chemistry,Hard
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for oganesson?,"Og,Ol,On,Oa",Og,Chemistry,Hard
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for ununennium?,"Uue,Uul,Uun,Uua",Uue,Chemistry,Hard
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of Japan?,"Tokyo,Osaka,Kyoto,Hiroshima",Tokyo,Geography,Easy
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of India?,"New Delhi,Mumbai,Bangalore,Kolkata",New Delhi,Geography,Easy
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of Brazil?,"Brasília,Rio de Janeiro,São Paulo,Salvador",Brasília,Geography,Medium
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of Canada?,"Ottawa,Toronto,Vancouver,Montreal",Ottawa,Geography,Medium
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Medium
-What is the chemical symbol for unbihexium?,"Ubh,Ubl,Ubn,Uba",Ubh,Chemistry,Hard
-What is the capital of South Africa?,"Pretoria,Cape Town,Johannesburg,Durban",Pretoria,Geography,Medium
-What is the chemical symbol for unbiseptium?,"Ubs,Ubl,Ubn,Uba",Ubs,Chemistry,Hard
-What is the capital of Argentina?,"Buenos Aires,Córdoba,Rosario,Mendoza",Buenos Aires,Geography,Medium
-What is the chemical symbol for unbioctium?,"Ubo,Ubl,Ubn,Uba",Ubo,Chemistry,Hard
-What is the capital of Egypt?,"Cairo,Alexandria,Giza,Luxor",Cairo,Geography,Medium
-What is the chemical symbol for unbiennium?,"Ube,Ubl,Ubn,Uba",Ube,Chemistry,Hard
-What is the capital of Mexico?,"Mexico City,Guadalajara,Monterrey,Puebla",Mexico City,Geography,Medium
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of South Korea?,"Seoul,Busan,Incheon,Daegu",Seoul,Geography,Medium
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of Thailand?,"Bangkok,Chiang Mai,Phuket,Pattaya",Bangkok,Geography,Medium
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of Vietnam?,"Hanoi,Ho Chi Minh City,Da Nang,Haiphong",Hanoi,Geography,Medium
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of Indonesia?,"Jakarta,Surabaya,Bandung,Medan",Jakarta,Geography,Medium
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of Turkey?,"Ankara,Istanbul,Izmir,Bursa",Ankara,Geography,Medium
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-What is the capital of Saudi Arabia?,"Riyadh,Jeddah,Mecca,Medina",Riyadh,Geography,Medium
-What is the chemical symbol for unbihexium?,"Ubh,Ubl,Ubn,Uba",Ubh,Chemistry,Hard
-What is the capital of Nigeria?,"Abuja,Lagos,Kano,Ibadan",Abuja,Geography,Medium
-What is the chemical symbol for unbiseptium?,"Ubs,Ubl,Ubn,Uba",Ubs,Chemistry,Hard
-What is the capital of Pakistan?,"Islamabad,Karachi,Lahore,Faisalabad",Islamabad,Geography,Medium
-What is the chemical symbol for unbioctium?,"Ubo,Ubl,Ubn,Uba",Ubo,Chemistry,Hard
-What is the capital of Bangladesh?,"Dhaka,Chittagong,Khulna,Rajshahi",Dhaka,Geography,Medium
-What is the chemical symbol for unbiennium?,"Ube,Ubl,Ubn,Uba",Ube,Chemistry,Hard
-What is the capital of the Philippines?,"Manila,Cebu,Davao,Quezon City",Manila,Geography,Medium
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of Malaysia?,"Kuala Lumpur,George Town,Johor Bahru,Penang",Kuala Lumpur,Geography,Medium
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of the United Kingdom?,"London,Manchester,Birmingham,Liverpool",London,Geography,Easy
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of France?,"Paris,Lyon,Marseille,Nice",Paris,Geography,Easy
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for unbihexium?,"Ubh,Ubl,Ubn,Uba",Ubh,Chemistry,Hard
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for unbiseptium?,"Ubs,Ubl,Ubn,Uba",Ubs,Chemistry,Hard
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for unbioctium?,"Ubo,Ubl,Ubn,Uba",Ubo,Chemistry,Hard
-What is the capital of Japan?,"Tokyo,Osaka,Kyoto,Hiroshima",Tokyo,Geography,Easy
-What is the chemical symbol for unbiennium?,"Ube,Ubl,Ubn,Uba",Ube,Chemistry,Hard
-What is the capital of India?,"New Delhi,Mumbai,Bangalore,Kolkata",New Delhi,Geography,Easy
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of Brazil?,"Brasília,Rio de Janeiro,São Paulo,Salvador",Brasília,Geography,Medium
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of Canada?,"Ottawa,Toronto,Vancouver,Montreal",Ottawa,Geography,Medium
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of Australia?,"Canberra,Sydney,Melbourne,Brisbane",Canberra,Geography,Medium
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of South Africa?,"Pretoria,Cape Town,Johannesburg,Durban",Pretoria,Geography,Medium
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of Argentina?,"Buenos Aires,Córdoba,Rosario,Mendoza",Buenos Aires,Geography,Medium
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-What is the capital of Egypt?,"Cairo,Alexandria,Giza,Luxor",Cairo,Geography,Medium
-What is the chemical symbol for unbihexium?,"Ubh,Ubl,Ubn,Uba",Ubh,Chemistry,Hard
-What is the capital of Mexico?,"Mexico City,Guadalajara,Monterrey,Puebla",Mexico City,Geography,Medium
-What is the chemical symbol for unbiseptium?,"Ubs,Ubl,Ubn,Uba",Ubs,Chemistry,Hard
-What is the capital of South Korea?,"Seoul,Busan,Incheon,Daegu",Seoul,Geography,Medium
-What is the chemical symbol for unbioctium?,"Ubo,Ubl,Ubn,Uba",Ubo,Chemistry,Hard
-What is the capital of Thailand?,"Bangkok,Chiang Mai,Phuket,Pattaya",Bangkok,Geography,Medium
-What is the chemical symbol for unbiennium?,"Ube,Ubl,Ubn,Uba",Ube,Chemistry,Hard
-What is the capital of Vietnam?,"Hanoi,Ho Chi Minh City,Da Nang,Haiphong",Hanoi,Geography,Medium
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of Indonesia?,"Jakarta,Surabaya,Bandung,Medan",Jakarta,Geography,Medium
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of Turkey?,"Ankara,Istanbul,Izmir,Bursa",Ankara,Geography,Medium
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of Saudi Arabia?,"Riyadh,Jeddah,Mecca,Medina",Riyadh,Geography,Medium
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of Nigeria?,"Abuja,Lagos,Kano,Ibadan",Abuja,Geography,Medium
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of Pakistan?,"Islamabad,Karachi,Lahore,Faisalabad",Islamabad,Geography,Medium
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-What is the capital of Bangladesh?,"Dhaka,Chittagong,Khulna,Rajshahi",Dhaka,Geography,Medium
-What is the chemical symbol for unbihexium?,"Ubh,Ubl,Ubn,Uba",Ubh,Chemistry,Hard
-What is the capital of the Philippines?,"Manila,Cebu,Davao,Quezon City",Manila,Geography,Medium
-What is the chemical symbol for unbiseptium?,"Ubs,Ubl,Ubn,Uba",Ubs,Chemistry,Hard
-What is the capital of Malaysia?,"Kuala Lumpur,George Town,Johor Bahru,Penang",Kuala Lumpur,Geography,Medium
-What is the chemical symbol for unbioctium?,"Ubo,Ubl,Ubn,Uba",Ubo,Chemistry,Hard
-What is the capital of the United Kingdom?,"London,Manchester,Birmingham,Liverpool",London,Geography,Easy
-What is the chemical symbol for unbiennium?,"Ube,Ubl,Ubn,Uba",Ube,Chemistry,Hard
-What is the capital of France?,"Paris,Lyon,Marseille,Nice",Paris,Geography,Easy
-What is the chemical symbol for unbinilium?,"Ubn,Ubl,Ubn,Uba",Ubn,Chemistry,Hard
-What is the capital of Italy?,"Rome,Milan,Venice,Florence",Rome,Geography,Easy
-What is the chemical symbol for unbiunium?,"Ubu,Ubl,Ubn,Uba",Ubu,Chemistry,Hard
-What is the capital of Spain?,"Madrid,Barcelona,Valencia,Seville",Madrid,Geography,Easy
-What is the chemical symbol for unbibium?,"Ubb,Ubl,Ubn,Uba",Ubb,Chemistry,Hard
-What is the capital of Germany?,"Berlin,Munich,Hamburg,Frankfurt",Berlin,Geography,Easy
-What is the chemical symbol for unbitrium?,"Ubt,Ubl,Ubn,Uba",Ubt,Chemistry,Hard
-What is the capital of Russia?,"Moscow,St. Petersburg,Novosibirsk,Yekaterinburg",Moscow,Geography,Medium
-What is the chemical symbol for unbiquadium?,"Ubq,Ubl,Ubn,Uba",Ubq,Chemistry,Hard
-What is the capital of China?,"Beijing,Shanghai,Guangzhou,Shenzhen",Beijing,Geography,Medium
-What is the chemical symbol for unbipentium?,"Ubp,Ubl,Ubn,Uba",Ubp,Chemistry,Hard
-Who was the first democratically elected President of South Africa?,"Nelson Mandela,Thabo Mbeki,Jacob Zuma,Cyril Ramaphosa",Nelson Mandela,South African History,Easy
-In what year did South Africa hold its first democratic elections?,"1990,1994,1989,1996",1994,South African History,Easy
-What was the name of the system of institutionalized racial segregation in South Africa?,"Apartheid,Colonialism,Reconstruction,Segregation",Apartheid,South African History,Medium
-Who was the anti-apartheid activist famously imprisoned on Robben Island for 27 years?,"Nelson Mandela,Desmond Tutu,Steve Biko,Walter Sisulu",Nelson Mandela,South African History,Easy
-Which political party led the struggle against apartheid and is now South Africa's ruling party?,"ANC,DA,EFF,IFP",ANC,South African History,Easy
-What is the name of the Nobel Peace Prize laureate known for his role in the Truth and Reconciliation Commission?,"Desmond Tutu,Nelson Mandela,FW de Klerk,Albert Luthuli",Desmond Tutu,South African History,Medium
-When did South Africa officially become a republic, leaving the British Commonwealth?,"1961,1948,1976,1955,1961",South African History,Medium
-Who was the last President of South Africa under the apartheid system?,"FW de Klerk,PW Botha,Nelson Mandela,John Vorster",FW de Klerk,South African History,Medium
-What was the Sharpeville Massacre of 1960 a protest against?,"Pass Laws,Apartheid Education,Forced Removals,Land Dispossession",Pass Laws,South African History,Medium
-Which South African city is known as the 'Mother City'?,"Cape Town,Durban,Johannesburg,Pretoria",Cape Town,South African History,Easy
-What is the primary goal of supervised learning?,"Predict outcomes,Cluster data,Reduce dimensions,Generate images",Predict outcomes,Machine Learning,Easy
-Which algorithm is commonly used for classification problems?,"Logistic Regression,K-Means,PCA,KNN",Logistic Regression,Machine Learning,Easy
-What is overfitting in machine learning?,"Model learns noise,Model generalizes well,Model converges early,Model has fewer parameters",Model learns noise,Machine Learning,Medium
-Which metric is most appropriate for evaluating classification models?,"Accuracy,R2 Score,MSE,MAE",Accuracy,Machine Learning,Easy
-What is the primary difference between supervised and unsupervised learning?,"Labeled vs. Unlabeled Data,Speed of Training,Model Complexity,Data Volume",Labeled vs. Unlabeled Data,Machine Learning,Easy
-Which algorithm is used for unsupervised clustering?,"K-Means,Linear Regression,Random Forest,SVM",K-Means,Machine Learning,Easy
-What does CNN stand for in deep learning?,"Convolutional Neural Network,Conditional Neural Network,Converging Neural Network,Contextual Neural Network",Convolutional Neural Network,AI,Easy
-Which activation function is commonly used in hidden layers of neural networks?,"ReLU,Sigmoid,Linear,Softmax",ReLU,AI,Easy
-What is the role of an AI agent?,"Perceive environment and take actions,Generate static outputs,Monitor system logs,Execute fixed rules",Perceive environment and take actions,AI Agents,Easy
-Which concept describes an AI model generating new data similar to existing data?,"Generative AI,Reinforcement Learning,Regression,Classification",Generative AI,AI,Medium
-What is transfer learning?,"Applying a pre-trained model to a new task,Training a model from scratch,Combining multiple algorithms,Reducing model size",Applying a pre-trained model to a new task,Machine Learning,Medium
-Which loss function is commonly used for regression tasks?,"Mean Squared Error,Cross Entropy Loss,Hinge Loss,Log Loss",Mean Squared Error,Machine Learning,Easy
-What is CrewAI used for?,"Multi-agent collaboration,Data cleaning,Image recognition,Database management",Multi-agent collaboration,AI Agents,Medium
-Which AI concept involves making a machine simulate human conversation?,"Chatbot,Image Recognition,Reinforcement Learning,Dimensionality Reduction",Chatbot,AI,Easy
-What is an example of a generative AI model?,"GPT-4,Random Forest,KNN,SVM",GPT-4,AI,Easy
-What is backpropagation used for?,"Updating neural network weights,Visualizing data,Reducing dimensionality,Evaluating classification accuracy",Updating neural network weights,AI,Medium
-What is the main function of an environment in reinforcement learning?,"Provide rewards and feedback,Optimize model parameters,Store data,Classify images",Provide rewards and feedback,AI Agents,Medium
-Which framework is widely used for developing AI models?,"TensorFlow,SAP,Excel,Figma",TensorFlow,AI,Easy
-Which evaluation metric is used to measure the performance of a classification model with imbalanced data?,"F1 Score,Accuracy,R2 Score,MSE",F1 Score,Machine Learning,Medium
-What is an example of a weak AI system?,"Chess-playing AI,Self-aware robot,General-purpose AI,Human-level AI",Chess-playing AI,AI,Easy
-What does LLM pre-training involve?,"Learning from vast datasets,Real-time predictions,Reinforcement learning,Data labeling",Learning from vast datasets,AI,Medium
-What is the main advantage of using NNs over traditional algorithms?,"Ability to learn complex patterns,Faster computation,Lower storage needs,Easier implementation",Ability to learn complex patterns,AI,Medium
-Which concept measures how well a model generalizes to new data?,"Generalization Error,Training Loss,Learning Rate,Activation Function",Generalization Error,Machine Learning,Medium
-Which AI agent type is designed for problem-solving and planning?,"Goal-based Agent,Reactive Agent,Simple Reflex Agent,Learning Agent",Goal-based Agent,AI Agents,Medium
-What is a key limitation of AI agents?,"Lack of common sense reasoning,Infinite memory,Perfect accuracy,Unlimited computing power",Lack of common sense reasoning,AI Agents,Medium
-Which algorithm is commonly used for anomaly detection?,"Isolation Forest,Linear Regression,K-Means,Naive Bayes",Isolation Forest,Machine Learning,Medium
-Which AI technique powers recommendation systems like Netflix or YouTube?,"Collaborative Filtering,Clustering,Linear Regression,Reinforcement Learning",Collaborative Filtering,AI,Medium
-What is the main goal of ensemble learning?,"Improve model accuracy,Increase model size,Reduce training time,Reduce data volume",Improve model accuracy,Machine Learning,Medium
-Which AI system is capable of making decisions without human input?,"Autonomous Agent,Expert System,Rule-Based System,Chatbot",Autonomous Agent,AI Agents,Medium
-What is the purpose of the sigmoid function in a neural network?,"Output probabilities,Reduce dimensionality,Prevent overfitting,Adjust learning rate",Output probabilities,AI,Easy
-Which AI field involves training models to play video games?,"Reinforcement Learning,Supervised Learning,Classification,Clustering",Reinforcement Learning,AI,Easy
-What is one common challenge in training deep learning models?,"Overfitting,Data Cleaning,Data Reduction,Cluster Formation",Overfitting,Machine Learning,Medium
-Which concept refers to an AI system interacting with its environment to maximize rewards?,"Reinforcement Learning,Supervised Learning,Data Mining,Neural Networks",Reinforcement Learning,AI,Medium
-What is the purpose of the attention mechanism in AI?,"Focus on relevant input data,Increase training time,Enhance data storage,Simplify algorithms",Focus on relevant input data,AI,Medium
-Which type of AI is designed to emulate human cognition?,"AGI (Artificial General Intelligence),Narrow AI,Reactive AI,Rule-Based AI",AGI (Artificial General Intelligence),AI,Medium
-What does the term 'hyperparameter tuning' refer to?,"Optimizing model parameters,Fixing training data,Generating synthetic data,Visualizing results",Optimizing model parameters,Machine Learning,Medium
-Which AI concept involves simulating the brain's neural structure?,"Neural Networks,Support Vector Machines,Decision Trees,Linear Regression",Neural Networks,AI,Easy
-Which AI framework is known for its ease of use in building neural networks?,"Keras,SQL,Excel,GitHub",Keras,AI,Easy
-What is a chatbot powered by GPT called?,"Conversational AI,Vision AI,Database AI,Signal AI",Conversational AI,AI,Easy
-What is an AI model that generates images from text called?,"Generative AI,Rule-Based AI,Linear Model,Decision Tree",Generative AI,AI,Easy
-Which AI agent type acts only based on the current state?,"Reactive Agent,Goal-Based Agent,Learning Agent,Autonomous Agent",Reactive Agent,AI Agents,Medium
-What is Explainable AI (XAI) used for?,"Understanding model predictions,Increasing training data,Preventing model bias,Speeding up computation",Understanding model predictions,AI,Medium
-What does CPU stand for?,"Central Processing Unit,Computer Processing Unit,Control Processing Unit,Central Program Unit",Central Processing Unit,Computer Science,Easy
-Which programming language is known as the mother of all languages?,"C,C++,Java,Python",C,Computer Science,Easy
-What is the time complexity of a binary search algorithm?,"O(log n),O(n),O(n^2),O(1)",O(log n),Computer Science,Medium
-Which data structure follows the First In First Out (FIFO) principle?,"Queue,Stack,Heap,Tree",Queue,Computer Science,Easy
-What is the primary function of an operating system?,"Manage hardware and software resources,Run web applications,Create graphics,Analyze data",Manage hardware and software resources,Computer Science,Easy
-Which network topology connects all devices in a circular format?,"Ring,Bus,Star,Mesh",Ring,Computer Science,Medium
-What does HTML stand for?,"HyperText Markup Language,HyperText Machine Language,HighText Markup Language,HyperTransfer Markup Language",HyperText Markup Language,Computer Science,Easy
-Which protocol is used for sending emails?,"SMTP,HTTP,FTP,DNS",SMTP,Computer Science,Easy
-What is a primary key in a database?,"A unique identifier for a record,A password for accessing data,A storage device,A table header",A unique identifier for a record,Computer Science,Easy
-What does the acronym DNS stand for?,"Domain Name System,Data Network Server,Dynamic Network Service,Digital Number System",Domain Name System,Computer Science,Easy
-Which programming language is commonly used for AI development?,"Python,Java,C,Ruby",Python,Computer Science,Easy
-What is an example of a non-volatile memory?,"ROM,RAM,Cache,Register",ROM,Computer Science,Medium
-What is the purpose of an IP address?,"Identify devices on a network,Store user passwords,Compress files,Execute programs",Identify devices on a network,Computer Science,Easy
-Which algorithm is used to find the shortest path in a graph?,"Dijkstra’s Algorithm,Merge Sort,Bubble Sort,Binary Search",Dijkstra’s Algorithm,Computer Science,Medium
-What is an example of a relational database management system (RDBMS)?,"MySQL,Redis,MongoDB,Cassandra",MySQL,Computer Science,Easy
-Which layer of the OSI model handles data encryption?,"Presentation Layer,Application Layer,Data Link Layer,Network Layer",Presentation Layer,Computer Science,Medium
-What does HTTP stand for?,"HyperText Transfer Protocol,HyperText Transmission Protocol,HighText Transfer Protocol,Hyperlink Text Protocol",HyperText Transfer Protocol,Computer Science,Easy
-Which logic gate outputs true only if both inputs are true?,"AND,OR,NAND,XOR",AND,Computer Science,Easy
-What is the binary equivalent of the decimal number 13?,"1101,1011,1110,1001",1101,Computer Science,Medium
-What is an example of a high-level programming language?,"Python,Assembly,C,Machine Code",Python,Computer Science,Easy
-What is the purpose of a firewall in a network?,"Protect against unauthorized access,Compress data,Increase internet speed,Manage device storage",Protect against unauthorized access,Computer Science,Easy
-Which sorting algorithm has an average time complexity of O(n log n)?,"Merge Sort,Bubble Sort,Selection Sort,Insertion Sort",Merge Sort,Computer Science,Medium
-What is a compiler used for?,"Translate source code into machine code,Execute code directly,Debug programs,Store data",Translate source code into machine code,Computer Science,Easy
-What is the main function of RAM in a computer?,"Store temporary data,Perform calculations,Display images,Connect to the internet",Store temporary data,Computer Science,Easy
-Which component stores permanent data in a computer?,"Hard Drive,RAM,Cache,CPU",Hard Drive,Computer Science,Easy
-What does API stand for?,"Application Programming Interface,Advanced Program Integration,Automated Protocol Interaction,Active Process Interface",Application Programming Interface,Computer Science,Easy
-What is the primary function of DNS in the internet?,"Translate domain names to IP addresses,Encrypt web traffic,Host websites,Provide cloud storage",Translate domain names to IP addresses,Computer Science,Easy
-Which programming paradigm focuses on objects and classes?,"Object-Oriented Programming,Functional Programming,Procedural Programming,Declarative Programming",Object-Oriented Programming,Computer Science,Easy
-What is the term for an error in a program?,"Bug,Patch,Exception,Function",Bug,Computer Science,Easy
-What is the purpose of version control systems like Git?,"Track code changes,Enhance CPU speed,Manage network traffic,Create databases",Track code changes,Computer Science,Easy
-Which language is primarily used for web development on the client side?,"JavaScript,Python,C#,C++",JavaScript,Computer Science,Easy
-What is the primary role of a database management system (DBMS)?,"Store and manage data,Compile programs,Optimize networks,Manage CPU usage",Store and manage data,Computer Science,Easy
-Which software testing method focuses on evaluating internal code structure?,"White-box Testing,Black-box Testing,Regression Testing,Load Testing",White-box Testing,Computer Science,Medium
-What is the name of the process that converts source code into executable code?,"Compilation,Interpretation,Debugging,Rendering",Compilation,Computer Science,Easy
-What is a subnet mask used for?,"Define the network portion of an IP address,Encrypt data,Boost Wi-Fi signals,Block unwanted websites",Define the network portion of an IP address,Computer Science,Medium
-What is the function of an operating system kernel?,"Manage hardware resources,Render user interfaces,Handle web requests,Store data",Manage hardware resources,Computer Science,Medium
-Which data structure is used to implement a LIFO mechanism?,"Stack,Queue,Heap,Tree",Stack,Computer Science,Easy
-What is an IP address version with 128-bit addressing?,"IPv6,IPv4,IPv5,IPv3",IPv6,Computer Science,Medium
-What is a virtual machine (VM)?,"A software emulation of a physical computer,An AI agent,A computer virus,A file compression tool",A software emulation of a physical computer,Computer Science,Easy
-What is the difference between HTTP and HTTPS?,"HTTPS is encrypted,HTTP is faster,HTTP stores more data,HTTPS is offline only",HTTPS is encrypted,Computer Science,Easy
-What does SSD stand for?,"Solid State Drive,Super Secure Data,Storage Service Device,Software System Disk",Solid State Drive,Computer Science,Easy
-Which number system uses only 0s and 1s?,"Binary,Decimal,Octal,Hexadecimal",Binary,Computer Science,Easy
-What is a primary characteristic of cloud computing?,"On-demand resource availability,Offline storage,High CPU consumption,Manual hardware management",On-demand resource availability,Computer Science,Easy
-Which data structure is best for finding the smallest element quickly?,"Min-Heap,Stack,Linked List,Queue",Min-Heap,Computer Science,Medium
-What is an algorithm?,"A step-by-step procedure to solve a problem,A computer hardware component,A software error,A programming language",A step-by-step procedure to solve a problem,Computer Science,Easy
-How can AI agents effectively handle ambiguous or contradictory user inputs?,"By using context,Machine learning,User  feedback,All of the above",All of the above,AI Agents,Hard
-What are the ethical implications of deploying AI agents in sensitive environments?,"Privacy concerns,Job displacement,Decision-making transparency,All of the above",All of the above,AI Agents,Hard
-How do AI agents ensure data privacy while processing user information?,"Encryption,Anonymization,Access controls,All of the above",All of the above,AI Agents,Hard
-In what ways can AI agents learn from minimal data inputs?,"Transfer learning,Reinforcement learning,Active learning,All of the above",All of the above,AI Agents,Hard
-How can AI agents be designed to understand and generate humor?,"Natural language processing,Contextual understanding,Machine learning,All of the above",All of the above,AI Agents,Hard
-What are the challenges of multi-agent systems in collaborative tasks?,"Communication,Coordination,Conflict resolution,All of the above",All of the above,AI Agents,Hard
-How do AI agents manage real-time decision-making in dynamic environments?,"Predictive analytics,Machine learning,Real-time data processing,All of the above",All of the above,AI Agents,Hard
-What techniques can be used to prevent bias in AI agent decision-making?,"Diverse training data,Regular audits,Transparency,All of the above",All of the above,AI Agents,Hard
-How can AI agents interpret and respond to emotional cues in human communication?,"Sentiment analysis,Facial recognition,Voice tone analysis,All of the above",All of the above,AI Agents,Hard
-What are the limitations of current natural language processing in AI agents?,"Context understanding,Ambiguity resolution,Idiomatic expressions,All of the above",All of the above,AI Agents,Hard
-How can AI agents be trained to recognize and adapt to cultural differences?,"Cultural datasets,User  feedback,Contextual learning,All of the above",All of the above,AI Agents,Hard
-What role does reinforcement learning play in the development of autonomous AI agents?,"Learning from feedback,Trial and error,Optimizing actions,All of the above",All of the above,AI Agents,Hard
-How can AI agents maintain user engagement over long interactions?,"Personalization,Feedback loops,Dynamic content,All of the above",All of the above,AI Agents,Hard
-What are the implications of AI agents making autonomous decisions in critical situations?,"Accountability,Transparency,Ethical considerations,All of the above",All of the above,AI Agents,Hard
-How do AI agents balance exploration and exploitation in learning tasks?,"Adaptive algorithms,Reward systems,Dynamic learning rates,All of the above",All of the above,AI Agents,Hard
-What strategies can be employed to enhance the explainability of AI agent actions?,"Model transparency,User -friendly interfaces,Documentation,All of the above",All of the above,AI Agents,Hard
-How can AI agents be integrated into existing workflows without disrupting productivity?,"Change management,User  training,Incremental implementation,All of the above",All of the above,AI Agents,Hard
-What are the potential risks of AI agents in cybersecurity applications?,"False positives,Data breaches,Over-reliance,All of the above",All of the above,AI Agents,Hard
-How can AI agents be designed to handle ethical dilemmas in decision-making?,"Ethical frameworks,User  input,Scenario analysis,All of the above",All of the above,AI Agents,Hard
-What advancements are needed in AI to improve the contextual understanding of agents?,"Better algorithms,Larger datasets,Improved training methods,All of the above",All of the above,AI Agents,Hard
-What are the primary functions of AI agents in customer service?,"Answering queries,Processing transactions,Providing recommendations,All of the above",All of the above,AI Agents,Medium
-How do AI agents utilize machine learning to improve their responses?,"Pattern recognition,Data analysis,Feedback incorporation,All of the above",All of the above,AI Agents,Medium
-What are the common types of AI agents used in business applications?,"Chatbots,Recommendation systems,Data analysis tools,All of the above",All of the above,AI Agents,Medium
-How can AI agents assist in data analysis and reporting?,"Automating data collection,Generating insights,Visualizing data,All of the above",All of the above,AI Agents,Medium
-What is the role of natural language processing in AI agents?,"Understanding user input,Generating responses,Sentiment analysis,All of the above",All of the above,AI Agents,Medium
-How do AI agents interact with users through voice recognition?,"Speech-to-text,Voice commands,Contextual understanding,All of the above",All of the above,AI Agents,Medium
-What are the benefits of using AI agents for task automation?,"Increased efficiency,Cost savings,Error reduction,All of the above",All of the above,AI Agents,Medium
-How can AI agents be programmed to follow specific guidelines or protocols?,"Rule-based systems,Machine learning,User -defined parameters,All of the above",All of the above,AI Agents,Medium
-What are the key components of an effective AI agent architecture?,"Data processing,User  interface,Learning algorithms,All of the above",All of the above,AI Agents,Medium
-How do AI agents handle user feedback to improve performance?,"Learning from interactions,Adjusting responses,User  surveys,All of the above",All of the above,AI Agents,Medium
-What is the significance of user experience design in AI agents?,"User  satisfaction,Engagement,Accessibility,All of the above",All of the above,AI Agents,Medium
-How can AI agents be used in educational settings?,"Personalized learning,Assessment tools,Administrative tasks,All of the above",All of the above,AI Agents,Medium
-What are the challenges of integrating AI agents with existing software systems?,"Compatibility issues,Data migration,User  training,All of the above",All of the above,AI Agents,Medium
-How do AI agents manage and prioritize multiple tasks?,"Task scheduling,Resource allocation,User  input,All of the above",All of the above,AI Agents,Medium
-What are the differences between rule-based and learning-based AI agents?,"Flexibility,Adaptability,Complexity,All of the above",All of the above,AI Agents,Medium
-How can AI agents be trained to recognize and respond to different languages?,"Multilingual datasets,Language models,User  feedback,All of the above",All of the above,AI Agents,Medium
-What role do APIs play in the functionality of AI agents?,"Data exchange,Integration,Functionality enhancement,All of the above",All of the above,AI Agents,Medium
-How can AI agents be utilized in healthcare applications?,"Patient monitoring,Data analysis,Administrative tasks,All of the above",All of the above,AI Agents,Medium
-What are the potential drawbacks of relying on AI agents for decision-making?,"Lack of human judgment,Data bias,Over-reliance,All of the above",All of the above,AI Agents,Medium
-How do AI agents ensure compliance with regulations in their operations?,"Data protection measures,Regular audits,User  consent,All of the above",All of the above,AI Agents,Medium
+Which continent is known as the Dark Continent?,"Africa,Asia,South America,Australia",Africa,Geography,Medium
+What is the tallest mountain in the world?,"K2,Mount Everest,Kangchenjunga,Lhotse",Mount Everest,Geography,Medium
+Which country has the most natural lakes?,"Canada,USA,India,Russia",Canada,Geography,Medium
+What is the capital of Egypt?,"Cairo,Alexandria,Luxor,Giza",Cairo,Geography,Medium
+Which country is known for the Great Wall?,"India,China,Mexico,Russia",China,Geography,Medium
+Which is the longest river in Europe?,"Danube,Rhine,Volga,Thames",Volga,Geography,Medium
+What is the capital of Brazil?,"Rio de Janeiro,Brasilia,Sao Paulo,Salvador",Brasilia,Geography,Medium
+What is the capital city of Bhutan?,"Thimphu,Paro,Punakha,Gasa",Thimphu,Geography,Hard
+Which river flows through the Grand Canyon?,"Yukon,Rio Grande,Colorado,Missouri",Colorado,Geography,Hard
+What is the largest island in the Mediterranean Sea?,"Sardinia,Sicily,Cyprus,Cretan",Sicily,Geography,Hard
+Which country has the most UNESCO World Heritage Sites?,"Italy,China,Spain,France",Italy,Geography,Hard
+What is the capital city of Finland?,"Helsinki,Tallinn,Oslo,Stockholm",Helsinki,Geography,Hard
+What is the second largest country in the world by land area?,"Canada,Russia,China,USA",Canada,Geography,Hard
+In which ocean is the Bermuda Triangle located?,"Atlantic,Pacific,Indian,Arctic",Atlantic,Geography,Hard
+What is the capital of New Zealand?,"Auckland,Wellington,Christchurch,Canberra",Wellington,Geography,Hard
+Which country is the largest by landmass?,"USA,Russia,China,India",Russia,Geography,Hard
+What mountain range separates Europe and Asia?,"Alps,Carpathians,Urals,Rockies",Urals,Geography,Hard
+Who was the first President of the United States?,"George Washington,Thomas Jefferson,Abraham Lincoln,John Adams",George Washington,History,Easy
+In what year did World War II end?,"1945,1944,1946,1939",1945,History,Easy
+What was the name of the ship that sank in 1912?,"Titanic,Lusitania,Carpathia,Olympic",Titanic,History,Easy
+Who was known as the Iron Lady?,"Margaret Thatcher,Golda Meir,Hillary Clinton,Angela Merkel",Margaret Thatcher,History,Easy
+What ancient civilization built the pyramids?,"Greeks,Romans,Egyptians,Mayans",Egyptians,History,Easy
+Who was the first man on the moon?,"Yuri Gagarin,Neil Armstrong,Buzz Aldrin,John Glenn",Neil Armstrong,History,Easy
+What was the Berlin Wall?,"A wall in France,A wall in Germany,A wall in Russia,A wall in Italy",A wall in Germany,History,Easy
+Who wrote the Declaration of Independence?,"Benjamin Franklin,Thomas Jefferson,John Adams,James Madison",Thomas Jefferson,History,Easy
+What period is known as the Dark Ages?,"8th-14th Century,5th-10th Century,12th-16th Century,20th Century",5th-10th Century,History,Easy
+Which war was fought between the North and South in the USA?,"Revolutionary War,Civil War,World War I,World War II",Civil War,History,Easy
+Who was the first emperor of Rome?,"Julius Caesar,Augustus,Nero,Caligula",Augustus,History,Medium
+What year did the Titanic sink?,"1912,1911,1905,1920",1912,History,Medium
+Who was the first female prime minister of the UK?,"Margaret Thatcher,Theresa May,Angela Merkel,Golda Meir",Margaret Thatcher,History,Medium
+What was the main cause of World War I?,"Imperialism,Nationalism,Militarism,All of the above",All of the above,History,Medium
+Who discovered America?,"Leif Erikson,Christopher Columbus,Ferdinand Magellan,Hernan Cortes",Christopher Columbus,History,Medium
+What was the ancient trade route that connected China to the Mediterranean called?,"Silk Road,Spice Route,Incense Route,Gold Route",Silk Road,History,Medium
+Who was the last Roman emperor?,"Julius Caesar,Nero,Rome,Romulus Augustulus",Romulus Augustulus,History,Medium
+When did the French Revolution start?,"1789,1776,1799,1804",1789,History,Medium
+What was the main goal of the Crusades?,"To spread Christianity,To conquer land,To gain wealth,All of the above",All of the above,History,Medium
+What year did the Berlin Wall fall?,"1989,1990,1987,1988",1989,History,Medium
+Who was known as the father of modern physics?,"Isaac Newton,Galileo,Albert Einstein,Niels Bohr",Albert Einstein,History,Hard
+What document ended the American Revolutionary War?,"Treaty of Paris,Magna Carta,Bill of Rights,Constitution",Treaty of Paris,History,Hard
+Who was the main author of the Communist Manifesto?,"Karl Marx,Friedrich Engels,Ludwig Feuerbach,Vladimir Lenin",Karl Marx,History,Hard
+What was the name of the first spacecraft to land on the moon?,"Lunar Module,Orion,Discovery,Appolo 11",Lunar Module,History,Hard
+Which British document limited the powers of the king?,"Magna Carta,Bill of Rights,Declaration of the Rights of Man,Constitution",Magna Carta,History,Hard
+What empire was known for its extensive road system?,"Roman,Ottoman,Mongol,Persian",Roman,History,Hard
+Who was the leader during the Cuban Missile Crisis?,"Lyndon B. Johnson,John F. Kennedy,Ronald Reagan,Richard Nixon",John F. Kennedy,History,Hard
+What was the primary cause of the Great Depression?,"Stock Market Crash,World War I,Inflation,Bank Failures",Stock Market Crash,History,Hard
+Who was the first president of South Africa post-apartheid?,"Nelson Mandela,Thabo Mbeki,Desmond Tutu,Julius Malema",Nelson Mandela,History,Hard
+What treaty ended World War I?,"Treaty of Versailles,Treaty of Paris,Treaty of Ghent,Treaty of Trianon",Treaty of Versailles,History,Hard
+What is the chemical symbol for water?,"H2O,CO2,O2,N2",H2O,Chemistry,Easy
+What is the most abundant gas in the Earth's atmosphere?,"Oxygen,Nitrogen,Carbon Dioxide,Hydrogen",Nitrogen,Chemistry,Easy
+What is the pH level of pure water?,"0,5,7,10",7,Chemistry,Easy
+What element does 'O' represent on the periodic table?,"Oxygen,Gold,Silver,Hydrogen",Oxygen,Chemistry,Easy
+Which gas is produced by burning fossil fuels?,"Oxygen,Nitrogen,Dioxide,Carbon Dioxide",Carbon Dioxide,Chemistry,Easy
+What is the chemical formula for table salt?,"NaCl,KCl,CaCl2,MgO",NaCl,Chemistry,Easy
+How many protons does a carbon atom have?,"6,8,12,14",6,Chemistry,Easy
+What is the common name for H2O2?,"Sodium Bicarbonate,Hydrogen Peroxide,Citric Acid,Cooking Oil",Hydrogen Peroxide,Chemistry,Easy
+Which element is represented by the symbol 'Na'?,"Sodium,Nitrogen,Neon,Calcium",Sodium,Chemistry,Easy
+What is the main component of natural gas?,"Ethane,Propane,Methane,Butane",Methane,Chemistry,Easy
+What is the most electronegative element?,"Fluorine,Oxygen,Chlorine,Nitrogen",Fluorine,Chemistry,Medium
+What is the molar mass of water?,"18 g/mol,12 g/mol,24 g/mol,36 g/mol",18 g/mol,Chemistry,Medium
+What is the main gas released from volcanoes?,"Carbon Dioxide,Methane,Nitrogen,Oxygen",Carbon Dioxide,Chemistry,Medium
+What is the chemical formula for glucose?,"C6H12O6,C12H22O11,C2H5OH,C3H8O",C6H12O6,Chemistry,Medium
+What type of bond involves the sharing of electron pairs?,"Ionic,Covalent,Metallic,Hydrogen",Covalent,Chemistry,Medium
+What is the most common isotope of Carbon?,"Carbon-12,Carbon-14,Carbon-15,Carbon-13",Carbon-12,Chemistry,Medium
+How many elements are in the periodic table?,"118,112,120,106",118,Chemistry,Medium
+What is the boiling point of water in degrees Celsius?,"100,-32,0,50",100,Chemistry,Medium
+What is the chemical symbol for gold?,"Au,Ag,Fe,Cu",Au,Chemistry,Medium
+What is the process of a solid turning into a gas?,"Sublimation,Evaporation,Condensation,Freezing",Sublimation,Chemistry,Medium
+What law states that the volume of a gas is directly proportional to its temperature?,"Boyle's Law,Charles's Law,Avogadro's Law,Graham's Law",Charles's Law,Chemistry,Hard
+Which theory explains the behavior of gas molecules?,"Kinetic Molecular Theory,Atomic Theory,Quantum Theory,Relativity",Kinetic Molecular Theory,Chemistry,Hard
+What is the electronegativity of Fluorine?,"4.0,3.5,2.5,1.0",4.0,Chemistry,Hard
+What is the principle that states that energy cannot be created or destroyed?,"Law of Conservation of Energy,Law of Conservation of Mass,First Law of Thermodynamics,Second Law of Thermodynamics",Law of Conservation of Energy,Chemistry,Hard
+Which field studies the rates of chemical reactions?,"Kinetics,Dynamics,Thermodynamics,Statics",Kinetics,Chemistry,Hard
+What is the name of the process of a liquid becoming a gas?,"Condensation,Evaporation,Freezing,Melting",Evaporation,Chemistry,Hard
+What does pH measure?,"Concentration of ions,Concentration of electrons,Concentration of protons,Concentration of neutrons",Concentration of protons,Chemistry,Hard
+What metal is liquid at room temperature?,"Mercury,Lead,Bromine,Aluminum",Mercury,Chemistry,Hard
+What is the main component of Earth's crust?,"Oxygen,Silicon,Iron,Aluminum",Oxygen,Chemistry,Hard
+What is the chemical formula for sulfuric acid?,"H2SO4,HCl,H3PO4,Nitric acid",H2SO4,Chemistry,Hard
+What is the powerhouse of the cell?,"Nucleus,Ribosome,Mitochondria,Chloroplast",Mitochondria,Biology,Easy
+What is the basic unit of life?,"Atom,Molecule,Cell,Tissue",Cell,Biology,Easy
+What is the process by which plants make their food?,"Photosynthesis,Respiration,Transpiration,Digestion",Photosynthesis,Biology,Easy
+What is the genetic material in living organisms?,"DNA,RNA,Protein,Amino Acid",DNA,Biology,Easy
+Which organ is primarily responsible for pumping blood in the human body?,"Lungs,Heart,Liver,Stomach",Heart,Biology,Easy
+What part of the cell contains the nucleus?,"Cytoplasm,Cell membrane,Cell wall,Mitochondria",Cytoplasm,Biology,Easy
+What do you call a group of cells that perform a similar function?,"Tissue,Organ,Organ System,Organism",Tissue,Biology,Easy
+What type of cell division results in two identical daughter cells?,"Mitosis,Meiosis,Transcription,Translation",Mitosis,Biology,Easy
+Which system in the human body is responsible for transport?,"Digestive,Circulatory,Respiratory,Nervous",Circulatory,Biology,Easy
+What is the process by which cells take in nutrients?,"Absorption,Assimilation,Digestion,Filtration",Absorption,Biology,Easy
+What is the study of inheritance called?,"Genetics,Biology,Evolution,Biochemistry",Genetics,Biology,Medium
+What organ is responsible for detoxifying chemicals in the body?,"Kidney,Liver,Lungs,Heart",Liver,Biology,Medium
+What type of organism is yeast?,"Prokaryote,Eukaryote,Viruses,Fungi",Eukaryote,Biology,Medium
+What is the function of ribosomes in a cell?,"Protein synthesis,DNA replication,Energy production,Cell division",Protein synthesis,Biology,Medium
+How many chromosomes do humans have?,"46,23,24,36",46,Biology,Medium
+What part of the brain controls balance and coordination?,"Cerebellum,Cerebrum,Brainstem,Thalamus",Cerebellum,Biology,Medium
+What is the chemical equation for photosynthesis?,"6CO2 + 6H2O -> C6H12O6 + 6O2,C6H12O6 + 6O2 -> 6CO2 + 6H2O,C6H12O6 + 6H2O -> 6CO2 + 6O2,6H2O + 6O2 -> C6H12O6 + 6CO2",6CO2 + 6H2O -> C6H12O6 + 6O2,Biology,Medium
+What color of light is most effective for photosynthesis?,"Red,Green,Blue,Yellow",Red,Biology,Medium
+What is the basic structure of proteins?,"Amino acids,Nucleotides,Saccharides,Fatty acids",Amino acids,Biology,Medium
+What is the largest organ in the human body?,"Skin,Liver,Heart,Lungs",Skin,Biology,Medium
+What is the main difference between DNA and RNA?,"DNA is double-stranded; RNA is single-stranded,DNA contains uracil; RNA contains thymine,DNA is found in the nucleus; RNA in the cytoplasm,DNA is involved in protein synthesis; RNA is not",DNA is double-stranded; RNA is single-stranded,Biology,Hard
+What is the process of programmed cell death?,"Apoptosis,Mitosis,Meiosis,Cell cycle",Apoptosis,Biology,Hard
+Which type of RNA carries amino acids to the ribosome?,"mRNA,tRNA,rRNA,dRNA",tRNA,Biology,Hard
+What is the role of the Golgi apparatus in a cell?,"ATP production,Packaging proteins,Lipid synthesis,DNA replication",Packaging proteins,Biology,Hard
+What structure in the cell membrane helps transport substances?,"Phospholipid bilayer,Protein channels,Carbohydrate chains,Lipids",Protein channels,Biology,Hard
+What is the process of converting mRNA into protein called?,"Transcription,Translation,Replication,Translocation",Translation,Biology,Hard
+Which organ is responsible for gas exchange in humans?,"Lungs,Heart,Kidneys,Liver",Lungs,Biology,Hard
+What is the primary function of white blood cells?,"Oxygen transport,Fighting infections,Nutrient absorption,Energy production",Fighting infections,Biology,Hard
+What is the main molecule that stores genetic information?,"Protein,DNA,RNA,Lipid",DNA,Biology,Hard
+What is the function of the mitochondria?,"Photosynthesis,Energy production,Cell division,Protein synthesis",Energy production,Biology,Hard
+What is the chemical symbol for Helium?,"He,H2,He2,H",He,Chemistry,Easy
+What is the chemical formula for methane?,"CH4,C2H4,C3H8,C4H10",CH4,Chemistry,Easy
+What gas do plants absorb?,"Oxygen,Nitrogen,Carbon Dioxide,Hydrogen",Carbon Dioxide,Chemistry,Easy
+What is the main component of vinegar?,"Acetic Acid,Hydrochloric Acid,Sodium Bicarbonate,Carbonic Acid",Acetic Acid,Chemistry,Easy
+Which element is represented by 'Fe'?,"Iron,Francium,Fermium,Fluorine",Iron,Chemistry,Easy
+What is the boiling point of water in Celsius?,"100,0,50,212",100,Chemistry,Easy
+What is the chemical formula for table sugar?,"C12H22O11,C6H12O6,C2H5OH,C3H8O",C12H22O11,Chemistry,Easy
+What type of solution has a pH less than 7?,"Acidic,Basic,Neutral,Alkaline",Acidic,Chemistry,Easy
+Which element has the atomic number 1?,"Oxygen,Hydrogen,Carbon,Helium",Hydrogen,Chemistry,Easy
+What is the main gas found in the air we breathe?,"Oxygen,Nitrogen,Carbon Dioxide,Argon",Nitrogen,Chemistry,Easy
+What is the molar mass of carbon dioxide?,"44 g/mol,12 g/mol,32 g/mol,28 g/mol",44 g/mol,Chemistry,Medium
+What type of reaction is: H2 + O2 → H2O?,"Synthesis,Decomposition,Combustion,Double replacement",Synthesis,Chemistry,Medium
+What is the main element in organic compounds?,"Carbon,Oxygen,Nitrogen,Hydrogen",Carbon,Chemistry,Medium
+Which acid is found in gastric juice?,"Hydrochloric Acid,Acetic Acid,Nitric Acid,Sulfuric Acid",Hydrochloric Acid,Chemistry,Medium
+What is the principle that states that mass is conserved in a chemical reaction?,"Law of Conservation of Mass,Laws of Thermodynamics,Avogadro's Law,Law of Equal Volume",Law of Conservation of Mass,Chemistry,Medium
+What is an isotope?,"Atoms of the same element with different numbers of neutrons,Atoms of different elements with same mass,Atoms with different electron configurations,Atoms with no charge",Atoms of the same element with different numbers of neutrons,Chemistry,Medium
+What does the term "activation energy" refer to?,"The energy required for a reaction to occur,The energy released during a reaction,The energy needed to initiate breathing,The energy needed to sustain life",The energy required for a reaction to occur,Chemistry,Medium
+What type of bond involves the sharing of electron pairs?,"Ionic,Covalent,Hydrogen,Polar",Covalent,Chemistry,Medium
+What is the by-product of aerobic respiration?,"Lactic Acid,Glucose,Carbon Dioxide,Oxygen",Carbon Dioxide,Chemistry,Medium
+What is a catalyst?,"A substance that speeds up a chemical reaction without being consumed,A substance that slows down a reaction,A substance that initiates a reaction,A substance that changes a reaction",A substance that speeds up a chemical reaction without being consumed,Chemistry,Medium
+What is the value of the universal gas constant R?,"0.0821 L·atm/(K·mol),8.314 J/(K·mol),0.08314 L·bar/(K·mol),All of the above",All of the above,Chemistry,Hard
+What is the primary purpose of using a titration?,"To determine the concentration of a solution,To separate mixtures,To identify unknown compounds,To measure temperature",To determine the concentration of a solution,Chemistry,Hard
+What is the main gas produced during cellular respiration?,"Carbon Dioxide,Oxygen,Nitrogen,Water Vapor",Carbon Dioxide,Chemistry,Hard
+What does a collision theory state about chemical reactions?,"They occur when particles collide with sufficient energy,They occur at high temperatures,They require a catalyst,They are spontaneous",They occur when particles collide with sufficient energy,Chemistry,Hard
+What is the primary use of Helium?,"Balloons,Neon signs,Cryogenics,All of the above",All of the above,Chemistry,Hard
+What type of chemical reaction absorbs energy?,"Exothermic,Endothermic,Synthesis,Decomposition",Endothermic,Chemistry,Hard
+What is the process of separating substances based on differences in boiling points?,"Distillation,Filtration,Centrifugation,Evaporation",Distillation,Chemistry,Hard
+What is the Arrhenius definition of an acid?,"A substance that increases the concentration of H+ ions in solution,A substance that increases the concentration of OH- ions in solution,A substance that donates electrons,A substance that accepts protons",A substance that increases the concentration of H+ ions in solution,Chemistry,Hard
+What is the term for the minimum energy required to start a chemical reaction?,"Activation Energy,Enthalpy,Entropy,Free Energy",Activation Energy,Chemistry,Hard
+What is the main factor that affects the rate of a chemical reaction?,"Concentration,Temperature,Catalysts,All of the above",All of the above,Chemistry,Hard
+What is the boiling point of water?,"100°C,0°C,50°C,25°C",100°C,Science,Easy
+What planet is known as the Red Planet?,"Mars,Venus,Jupiter,Saturn",Mars,Science,Easy
+What is the chemical formula for water?,"H2O,CO2,NaCl,O2",H2O,Science,Easy
+What gas do plants use for photosynthesis?,"Oxygen,Carbon Dioxide,Nitrogen,Hydrogen",Carbon Dioxide,Science,Easy
+What part of the cell contains genetic material?,"Nucleus,Mitochondria,Ribosome,Cytoplasm",Nucleus,Science,Easy
+What is the closest star to Earth?,"Sun,Alpha Centauri,Beta Centauri,Proxima Centauri",Sun,Science,Easy
+What is the main organ in the circulatory system?,"Heart,Lungs,Brain,Liver",Heart,Science,Easy
+What type of energy does a moving object have?,"Potential,Mechanical,Heat,Kinetic",Kinetic,Science,Easy
+What is the largest organ in the human body?,"Skin,Liver,Heart,Brain",Skin,Science,Easy
+What force pulls objects toward each other?,"Gravity,Magnetism,Friction,Inertia",Gravity,Science,Easy
+What is the process by which liquid water becomes water vapor?,"Evaporation,Condensation,Melting,Freezing",Evaporation,Science,Medium
+What type of rock is formed from cooled magma?,"Igneous,Metamorphic,Sedimentary,Volcanic",Igneous,Science,Medium
+What vitamin is produced when the skin is exposed to sunlight?,"Vitamin D,Vitamin C,Vitamin A,Vitamin K",Vitamin D,Science,Medium
+What is the main function of red blood cells?,"Transport Oxygen,Combat Infection,Clot Blood,Maintain Temperature",Transport Oxygen,Science,Medium
+What type of animal is a dolphin?,"Mammal,Reptile,Amphibian,Bird",Mammal,Science,Medium
+What is the fundamental unit of life?,"Cell,Tissue,Organ,Organ System",Cell,Science,Medium
+What is the chemical symbol for sodium?,"Na,So,Sd,N",Na,Science,Medium
+What is the process by which plants absorb water?,"Transpiration,Absorption,Diffusion,Evaporation",Absorption,Science,Medium
+What is the phase change from gas to liquid called?,"Condensation,Evaporation,Freezing,Melting",Condensation,Science,Medium
+What type of lens converges light rays?,"Convex,Concave,Flat,Spherical",Convex,Science,Medium
+What is the theory that explains the diversity of life on Earth?,"Theory of Evolution,Laws of Thermodynamics,Germ Theory,Cell Theory",Theory of Evolution,Science,Hard
+What particle in an atom has a positive charge?,"Proton,Neutron,Electron,Photon",Proton,Science,Hard
+What is the process by which cells release energy from glucose?,"Cellular Respiration,Photosynthesis,Chemical Reaction,Metabolism",Cellular Respiration,Science,Hard
+What is the main function of the mitochondria?,"Energy Production,Protein Synthesis,DNA Replication,Cell Division",Energy Production,Science,Hard
+What is the phenomenon where light bends as it passes through different mediums?,"Refraction,Diffraction,Reflection,Transmission",Refraction,Science,Hard
+What is the basic unit of heredity?,"Gene,Chromosome,DNA,RNA",Gene,Science,Hard
+What type of symmetry do most animals exhibit?,"Bilateral,Radial,Asymmetrical,Spherical",Bilateral,Science,Hard
+What is the primary source of energy for Earth?,"The Sun,Geothermal Energy,Wind Energy,Hydropower",The Sun,Science,Hard
+What is the name of the scale used to measure the acidity or alkalinity of a solution?,"pH Scale,Temperature Scale,Pressure Scale,Density Scale",pH Scale,Science,Hard
+What does computer RAM stand for?,"Random Access Memory,Read Access Memory,Run Access Memory,Remote Access Memory",Random Access Memory,Technology,Easy
+What does HTML stand for?,"Hypertext Markup Language,Hightext Markup Language,Hyperlink and Text Markup Language,Hightext and Text Markup Language",Hypertext Markup Language,Technology,Easy
+What is the name of the first electronic general-purpose computer?,"ENIAC,UNIVAC,IBM PC,Apple I",ENIAC,Technology,Easy
+What is the main function of an operating system?,"Manage hardware and software resources,Run specific applications,Store data,Connect to the internet",Manage hardware and software resources,Technology,Easy
+What does HTTP stand for?,"Hypertext Transfer Protocol,High Transfer Text Protocol,Hyper Transfer Text Protocol,Hightext Transfer Protocol",Hypertext Transfer Protocol,Technology,Easy
+What is the primary language used for web development?,"HTML,CSS,JavaScript,Java",HTML,Technology,Easy
+What is the purpose of a database?,"Store and retrieve data,Perform calculations,Create graphics,Send emails",Store and retrieve data,Technology,Easy
+Which device is used to connect to the internet?,"Router,Printer,Monitor,Scanner",Router,Technology,Easy
+What does USB stand for?,"Universal Serial Bus,United Serial Ball,Universal System Ball,United System Bus",Universal Serial Bus,Technology,Easy
+What is cloud computing?,"Storing and accessing data over the internet,Storing data on a hard drive,Using physical servers,Using a floppy disk",Storing and accessing data over the internet,Technology,Easy
+What is the purpose of a firewall?,"Protects against unauthorized access,Increases internet speed,Stores data,Connects devices",Protects against unauthorized access,Technology,Medium
+What is an example of a programming language?,"Python,Google,Adobe,Microsoft",Python,Technology,Medium
+Which company developed the iPhone?,"Apple,Microsoft,Google,Samsung",Apple,Technology,Medium
+What is the name of the first web browser?,"WorldWideWeb,Internet Explorer,Netscape,Firefox",WorldWideWeb,Technology,Medium
+What does VPN stand for?,"Virtual Private Network,Very Personal Network,Virtual Public Network,Very Private Network",Virtual Private Network,Technology,Medium
+What technology is used in smart home devices?,"IoT (Internet of Things),VPN,Cloud Computing,Machine Learning",IoT (Internet of Things),Technology,Medium
+What is the function of a CPU in a computer?,"Processing data,Storing data,Displaying graphics,Routing internet traffic",Processing data,Technology,Medium
+What is the difference between the Internet and the World Wide Web?,"The Internet is a network; the Web is a service,The Internet is a website; the Web is a browser,The Internet is hardware; the Web is software,There is no difference",The Internet is a network; the Web is a service,Technology,Medium
+What is the term for converting text into a secret code?,"Encryption,Decryption,Transcoding,Compression",Encryption,Technology,Medium
+What is augmented reality?,"Overlaying digital information on the real world,Creating virtual worlds,Coding mobile applications,All of the above",Overlaying digital information on the real world,Technology,Medium
+What is the primary function of a router?,"Directs data packets between networks,Stores files,Processes data,Creates web pages",Directs data packets between networks,Technology,Hard
+What is machine learning?,"A subset of AI that enables computers to learn from data,Programmatic coding that creates algorithms,A practice of digital marketing,All of the above",A subset of AI that enables computers to learn from data,Technology,Hard
+What does SEO stand for?,"Search Engine Optimization,Search Engine Organization,Search Engine Operation,Systematic Engine Optimization",Search Engine Optimization,Technology,Hard
+What is the technology behind Bitcoin?,"Blockchain,IPv4,Cloud Computing,VPN",Blockchain,Technology,Hard
+What is a digital certificate?,"An electronic document for verifying identities,A physical document for authorizing transactions,A software program for email,An online sales agreement",An electronic document for verifying identities,Technology,Hard
+What is quantum computing?,"Computing using quantum bits (qubits),Computing using classical bits,Computing using artificial intelligence,Computing using traditional methods",Computing using quantum bits (qubits),Technology,Hard
+What is the purpose of a data warehouse?,"Storing large amounts of data for analysis,Processing transactions,Running applications,Displaying graphics",Storing large amounts of data for analysis,Technology,Hard
+What is the function of an API?,"Allows different software systems to communicate,Stores data,Creates websites,Manages networks",Allows different software systems to communicate,Technology,Hard
+What is the primary purpose of encryption?,"To secure data from unauthorized access,To speed up data transfer,To backup data,To improve connectivity",To secure data from unauthorized access,Technology,Hard
+What is the significance of the Turing Test?,"To measure a machine's ability to exhibit intelligent behavior,To test software reliability,To ensure cybersecurity,To evaluate hardware performance",To measure a machine's ability to exhibit intelligent behavior,Technology,Hard
+What is computer science?,"The study of computers and computational systems,The study of hardware only,The study of software only,The study of data storage",The study of computers and computational systems,Computer Science,Easy
+Which of the following is a programming language?,"Python,HTML,Java,All of the above",All of the above,Computer Science,Easy
+What does an algorithm do?,"It provides a step-by-step solution to a problem,It stores data,It analyzes information,It creates user interfaces",It provides a step-by-step solution to a problem,Computer Science,Easy
+What is the purpose of a compiler?,"To translate code into machine language,To store data,To analyze information,To create user interfaces",To translate code into machine language,Computer Science,Easy
+What is an operating system?,"Software that manages computer hardware and software,Hardware that processes data,Software that stores data,Software that creates user interfaces",Software that manages computer hardware and software,Computer Science,Easy
+What is the main function of a database?,"To store and manage data,To process data,To analyze information,To create user interfaces",To store and manage data,Computer Science,Easy
+What is the internet?,"A global network of computers,An application,Hardware,Software",A global network of computers,Computer Science,Easy
+What is a network?,"A collection of computers connected together,An application,Hardware,Software",A collection of computers connected together,Computer Science,Easy
+What is the purpose of data structures?,"To organize and store data efficiently,To process data,To analyze information, To create user interfaces",To organize and store data efficiently,Computer Science,Easy
+What is the function of a web browser?,"To access and display web pages,To store data,To analyze information,To create user interfaces",To access and display web pages,Computer Science,Easy
+What is the primary purpose of an algorithm?,"To solve problems,To store data,To create user interfaces,To analyze information",To solve problems,Computer Science,Medium
+Which of the following is a type of data structure?,"Array,Linked List,Hash Table,All of the above",All of the above,Computer Science,Medium
+What is the difference between a stack and a queue?,"Stack is LIFO; Queue is FIFO,They are the same,Stack is FIFO; Queue is LIFO",Stack is LIFO; Queue is FIFO,Computer Science,Medium
+What is object-oriented programming?,"A programming paradigm based on objects,An algorithm,Data storage,Hardware design",A programming paradigm based on objects,Computer Science,Medium
+What is the purpose of a software development lifecycle?,"To manage software development processes,To store data,To analyze information,To create user interfaces",To manage software development processes,Computer Science,Medium
+What is a common use of recursion in programming?,"To solve problems that can be broken down into smaller subproblems,To store data,To create user interfaces,To analyze information",To solve problems that can be broken down into smaller subproblems,Computer Science,Medium
+What is the role of a software engineer?,"To design and develop software applications,To manage hardware,To analyze data,To create user interfaces",To design and develop software applications,Computer Science,Medium
+What is the significance of version control in software development?,"To track changes in code,To store data,To analyze information,To create user interfaces",To track changes in code,Computer Science,Medium
+What is the purpose of testing in software development?,"To ensure software quality and functionality,To store data,To analyze information,To create user interfaces",To ensure software quality and functionality,Computer Science,Medium
+What is the difference between front-end and back-end development?,"Front-end is user interface; back-end is server-side logic,They are the same,Front-end is server-side logic; back-end is user interface",Front-end is user interface; back-end is server-side logic,Computer Science,Medium
+What is the significance of Big O notation?,"To describe algorithm efficiency,To store data,To analyze information,To create user interfaces",To describe algorithm efficiency,Computer Science,Hard
+What is the difference between a compiler and an interpreter?,"Compiler translates entire code; interpreter translates line by line,They are the same,Compiler is slower",Compiler translates entire code; interpreter translates line by line,Computer Science,Hard
+What is a deadlock in operating systems?,"A situation where processes cannot proceed,An error in code,Data storage,An algorithm",A situation where processes cannot proceed,Computer Science,Hard
+What is the purpose of a database management system?,"To manage data storage and retrieval,To create user interfaces,To analyze information,To store hardware",To manage data storage and retrieval,Computer Science,Hard
+What is the difference between relational and non-relational databases?,"Relational databases use structured data; non-relational use unstructured,They are the same,Relational databases are slower",Relational databases use structured data; non-relational use unstructured,Computer Science,Hard
+What is the role of encryption in data security?,"To protect data from unauthorized access,To store data,To analyze information,To create user interfaces",To protect data from unauthorized access,Computer Science,Hard
+What is the significance of cloud computing?,"To provide scalable resources over the internet,To store data,To analyze information,To create user interfaces",To provide scalable resources over the internet,Computer Science,Hard
+What is the purpose of an API?,"To allow different software systems to communicate,To store data,To analyze information,To create user interfaces",To allow different software systems to communicate,Computer Science,Hard
+What is the difference between synchronous and asynchronous programming?,"Synchronous blocks execution; asynchronous does not,They are the same,Synchronous is faster",Synchronous blocks execution; asynchronous does not,Computer Science,Hard
+What is the significance of software architecture?,"To define the structure of software systems,To store data,To analyze information,To create user interfaces",To define the structure of software systems,Computer Science,Hard
+What is the purpose of education?,"To acquire knowledge and skills,To store data,To analyze information,To create user interfaces",To acquire knowledge and skills,Education,Easy
+What is a teacher?,"A person who educates students,An administrator,An accountant,An engineer",A person who educates students,Education,Easy
+What is a curriculum?,"A set of courses offered by a school,An educational tool,An assessment method,A teaching style",A set of courses offered by a school,Education,Easy
+What is a student?,"A person who is learning,An educator,An administrator,An accountant",A person who is learning,Education,Easy
+What is the significance of homework?,"To reinforce learning,To store data,To analyze information,To create user interfaces",To reinforce learning,Education,Easy
+What is a school?,"An institution for educating children,An office,An organization,An online platform",An institution for educating children,Education,Easy
+What is a degree?,"A qualification awarded by an educational institution,An assessment method,An educational tool,A teaching style",A qualification awarded by an educational institution,Education,Easy
+What is online learning?,"Education conducted over the internet,Traditional classroom learning,Home schooling,Private tutoring",Education conducted over the internet,Education,Easy
+What is a scholarship?,"Financial aid for education,An assessment method,An educational tool,A teaching style",Financial aid for education,Education,Easy
+What is a classroom?,"A room where teaching occurs,An office,An online platform,An organization",A room where teaching occurs,Education,Easy
+What is the role of a principal?,"To manage a school,To teach students,To create curriculum,To assess students",To manage a school,Education,Medium
+What is formative assessment?,"Assessment for learning,Assessment of learning,Assessment as learning,Standardized testing",Assessment for learning,Education,Medium
+What is the purpose of standardized testing?,"To measure student performance,To store data,To analyze information,To create user interfaces",To measure student performance,Education,Medium
+What is the significance of critical thinking in education?,"To develop analytical skills,To store data,To analyze information,To create user interfaces",To develop analytical skills,Education,Medium
+What is a learning style?,"An individual's preferred way of learning,An assessment method,An educational tool,A teaching style",An individual's preferred way of learning,Education,Medium
+What is the purpose of a syllabus?,"To outline course content and expectations,To store data,To analyze information,To create user interfaces",To outline course content and expectations,Education,Medium
+What is the role of technology in education?,"To enhance learning experiences,To store data,To analyze information,To create user interfaces",To enhance learning experiences,Education,Medium
+What is experiential learning?,"Learning through experience,Learning through reading,Learning through observation,Learning through testing",Learning through experience,Education,Medium
+What is the significance of collaboration in education?,"To enhance learning through teamwork,To store data,To analyze information,To create user interfaces",To enhance learning through teamwork,Education,Medium
+What is the purpose of a report card?,"To communicate student progress,To store data,To analyze information,To create user interfaces",To communicate student progress,Education,Medium
+What is the significance of educational psychology?,"To understand how students learn,To store data,To analyze information,To create user interfaces",To understand how students learn,Education,Hard
+What is differentiated instruction?,"Tailoring teaching to meet individual needs,Using the same method for all students,Standardized testing,Group learning",Tailoring teaching to meet individual needs,Education,Hard
+What is the role of assessment in education?,"To evaluate student learning,To store data,To analyze information,To create user interfaces",To evaluate student learning,Education,Hard
+What is the purpose of educational research?,"To improve teaching and learning practices,To store data,To analyze information,To create user interfaces",To improve teaching and learning practices,Education,Hard
+What is the significance of lifelong learning?,"To promote continuous personal and professional development,To store data,To analyze information,To create user interfaces",To promote continuous personal and professional development,Education,Hard
+What is the impact of socioeconomic status on education?,"It influences access to resources and opportunities,It has no effect,It only affects low-income families,It only affects high-income families",It influences access to resources and opportunities,Education,Hard
+What is the role of cultural competence in education?,"To understand and respect diverse backgrounds,To store data,To analyze information,To create user interfaces",To understand and respect diverse backgrounds,Education,Hard
+What is the significance of emotional intelligence in education?,"To enhance interpersonal skills and relationships,To store data,To analyze information,To create user interfaces",To enhance interpersonal skills and relationships,Education,Hard
+What is the purpose of inclusive education?,"To accommodate diverse learning needs,To store data,To analyze information,To create user interfaces",To accommodate diverse learning needs,Education,Hard
+What is the role of feedback in the learning process?,"To guide improvement and understanding,To store data,To analyze information,To create user interfaces",To guide improvement and understanding,Education,Hard

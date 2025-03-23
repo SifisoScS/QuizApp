@@ -1,34 +1,22 @@
 # src/quiz_app.py
 import streamlit as st
+import time
 from src.utils.file_utils import load_questions_from_csv
 from src.utils.quiz_logic import shuffle_questions, check_answer
 from src.utils.leaderboard_utils import load_leaderboard, update_leaderboard
 
-# Custom CSS for three-column layout
-st.markdown(
-    """
-    <style>
-    .main {
-        display: flex;
-        justify-content: space-between;
-    }
-    .quiz {
-        flex: 2;
-        padding: 0 20px;
-    }
-    .leaderboard {
-        flex: 1;
-        padding: 0 20px;
-        border-left: 1px solid #ccc;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+# Set page config (MUST BE THE FIRST STREAMLIT COMMAND)
+st.set_page_config(page_title="Sifiso's Ultimate Quiz App", page_icon=":question:", layout="wide")
+
+# Helper function to load CSS
+def local_css(file_name):
+    with open(file_name, "r") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+# Load CSS (AFTER st.set_page_config)
+local_css("app/assets/style.css")
 
 def main():
-    st.set_page_config(page_title="Awesome Quiz App", page_icon=":question:", layout="wide")
-
     # Initialize session state variables if they do not exist
     if 'index' not in st.session_state:
         st.session_state.index = 0
@@ -48,12 +36,12 @@ def main():
 
     # Extract unique categories and difficulty levels
     categories = sorted({q["category"] for q in questions})
-    difficulty_levels = sorted({q["difficulty"] for q in questions})
+    difficulty_levels = ["All", "Easy", "Medium", "Hard"]  # Reordered difficulty levels
 
     # Add a category and difficulty selector to the left sidebar
     st.sidebar.title("Quiz Settings")
     new_selected_category = st.sidebar.selectbox("Choose a category", ["All"] + categories)
-    new_selected_difficulty = st.sidebar.selectbox("Choose a difficulty level", ["All"] + difficulty_levels)
+    new_selected_difficulty = st.sidebar.selectbox("Choose a difficulty level", difficulty_levels)
 
     # Reset quiz state if category or difficulty changes
     if (new_selected_category != st.session_state.selected_category or
@@ -64,6 +52,7 @@ def main():
         st.session_state.index = 0
         st.session_state.answers = []
         st.session_state.question_order = []  # Reset question_order
+        st.rerun()  # Force a rerun to apply the changes immediately
 
     # Filter questions based on the selected category and difficulty
     filtered_questions = questions
@@ -84,6 +73,9 @@ def main():
             st.write(f"**Category:** {question_data['category']} | **Difficulty:** {question_data['difficulty']}")
             user_answer = st.radio("Choose your answer:", question_data['options'])
 
+            # Create a placeholder for the message
+            message_placeholder = st.empty()
+
             if st.button("Submit"):
                 is_correct = check_answer(user_answer, question_data['answer'])
                 st.session_state.answers.append({
@@ -96,12 +88,17 @@ def main():
                 })
                 if is_correct:
                     st.session_state.score += 1
-                    st.success("Correct! 🎉")
+                    message_placeholder.success("Correct! 🎉")
                 else:
-                    st.error(f"Wrong! The correct answer is {question_data['answer']} 😞")
+                    message_placeholder.error(f"Wrong! The correct answer is {question_data['answer']} 😞")
+
+                # Add a short delay before clearing the message and rerunning
+                time.sleep(1)  # Adjust the delay as needed
+                message_placeholder.empty()  # Clear the message
                 st.session_state.index += 1
                 st.rerun()
         else:
+            # Stop the quiz once all questions are answered
             display_results()
 
     def display_results():
@@ -132,21 +129,64 @@ def main():
             st.rerun()
 
     # Main layout
-    st.title("The Ultimate Quiz App")
+    st.title("Sifiso's Ultimate Quiz App")
 
     # Create columns for the center (quiz) and right (leaderboard)
     col1, col2 = st.columns([2, 1])  # Center column is twice as wide as the right column
 
     # Display the quiz in the center column
     with col1:
-        display_question()
+        if st.session_state.index < len(filtered_questions):
+            display_question()
+        else:
+            st.write("### You've completed all questions for this difficulty level!")
+            display_results()
 
     # Display the leaderboard in the right column
     with col2:
         st.write("### Leaderboard")
         leaderboard = load_leaderboard()
         if leaderboard:
+            # Add emojis for the top 3 positions
+            leaderboard_with_icons = []
             for i, entry in enumerate(leaderboard):
-                st.write(f"{i + 1}. {entry['name']} - {entry['score']} points")
+                if i == 0:
+                    entry["position"] = "🥇"
+                elif i == 1:
+                    entry["position"] = "🥈"
+                elif i == 2:
+                    entry["position"] = "🥉"
+                else:
+                    entry["position"] = f"{i + 1}."
+                leaderboard_with_icons.append(entry)
+
+            # Display the leaderboard as a table
+            st.dataframe(
+                leaderboard_with_icons,
+                column_order=["position", "name", "score"],
+                column_config={
+                    "position": "Position",
+                    "name": "Name",
+                    "score": "Score"
+                },
+                use_container_width=True,
+                hide_index=True,
+            )
         else:
             st.write("No scores yet. Be the first to play!")
+
+    # Add a "Powered by Sifiso" link to the sidebar
+    st.sidebar.markdown(
+        """
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://www.linkedin.com/in/sifisoshezi/" target="_blank">
+                Powered by Sifiso
+            </a>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+# Run the app
+if __name__ == "__main__":
+    main()
